@@ -1,0 +1,1442 @@
+{
+  "current_page": 1,
+  "total_pages": 92,
+  "gigs": [
+    {
+      "id": 15649,
+      "title": "Promo Image 12-22 A",
+      "delivery_deadline": "2017-01-07T00:14:00Z",
+      "price": 40.0,
+      "delivery_fee": 10.0,
+      "status": "published",
+      "total_distance": 847.988110555,
+      "created_at": "2016-12-22T17:46:41Z",
+      "updated_at": "2016-12-22T17:46:41Z",
+      "category": "shipment",
+      "pickup_location": {
+        "latitude": 58.3002297,
+        "longitude": -134.4251812,
+        "friendly_name": "West 9th Street, Juneau, AK 99801",
+        "city": "Juneau",
+        "state": "AK",
+        "zip": "99801"
+      },
+      "bearing": 281,
+      "delivery_location": {
+        "latitude": 61.2160934,
+        "longitude": -149.8846131,
+        "friendly_name": "C Street",
+        "city": "Anchorage",
+        "state": "AK",
+        "zip": "99501"
+      },
+      "route": "kwybJh|msXoqG`jM_eE`nWwo@vpFxK`jCjmFv\\|CzaAugF~fQglO~{Lyf_Ahqu@qzJrzGo{Tp{@oiS|rHob[~{SckLtoSpcAelBlmBq{@rtA|t@|LhyDsy@`hIw|Eph]kvIfuMmrF`}No`FpqOaj@drPcxA|_j@szC|o[seFn}JahI~rCyxHmk@usE?o{Cd_IuqHliR_}EsrBi`InlAylGzmFohKv}UgtF~pGs_Qd}MgwLppF}sBz{G_`Mj{EezEi}EmwDvd@cdF~qJakIt}Bw`I|My`GrK}jNphFchT`~c@{uP|u[yyChtJeeEtrVo_Kr}]amHd~IeoEvsHgzA`pQelJrsb@ykBpzOi\\tlc@zaCz_LskBhyE{eByzAyuCLyiGjkFiwBz`Be}EiAoyBpfBkOzvGybEn{JigAjhDufBheH}rNr_ZasCvlKyhFzqOu~AjmVcrEvwEwnL`dMmaHpiMapFpqCavAh~D}x@jeM}yApaSicCt_UqhBbdG_mCzQ}~Jjc]erRhzi@cqGvnMi_IxlZ_bFvzUcjCzzTcgAtpDoiBmQ{mD~jIq{M|jHqiO~mBitIwt@c}EprRo}H|eKgnB|jBmiGwDasIej@sqDxf@chCjcFg{@`lFu}CxgG}`GqoCe`FdkJwzEtbG{pCpnKi_EptKgoFrhCgyErnIqsI|u`@}}LrlRasInvSilJf{`@ivBx|Ao{@~nFopBjaNmiMpoXcmMrwZwnBppVa|Dfd\\yqIptZcwAbk`AtbBjjFt_PtwIrlAo}A|tDf{MheF|uTbhFpmMbkBk{@|hAtbDd|EdxGxzEtlB~cH{mDbzAdqB`gCl{Opu@z}c@znEdzEp{DtFrpApzCzdDVzzEh|L|sFfbEpgC|xLrf@~lPtXlxi@ns@vac@~|EziF~iEboYhrJnzTxwCdpLt~@bcHr}FfhGxgEjrCtsBhfJzrDzdO~oA`wObiCfgKt_FrlGlyFf|H`}B|rUdqEl`Ov~N|rEhgJ~hCbdAthIhJ`{^yCv}n@j`BhvdA`pGhgk@dlBv|WlpC|`QtjCrvKuWp`SpCxu^fpG`vNdjHp_a@vfHxrJ|nE`nPt|Ajpb@gJfdDlbAo_@_eAjda@|YtnYuvAnv]~m@~_PjcA|oXf~Drmc@tlCboVr`@duNvbDl_b@byAhkE|bBrtNxpC|xJ`wD`wAf~DhR`xEl`Gzg@|bN~bAtbAj|Gsp@dwC|eClv@ljKxzHr_SpsDnfOfaFpsFzsBz{D~fBss@~nEh`IxbH~}NzfBlja@",
+      "package": {
+        "id": 15594,
+        "size_kind": "small",
+        "images": [
+          {
+            "id": 13564,
+            "type": "publish",
+            "location": "https://roadie-app-qa.s3.amazonaws.com/gigs/15649/images/e6a0da15-9e3c-4e5c-a6c2-87b01d63e516.jpg",
+            "index": null
+          },
+          {
+            "id": 13565,
+            "type": "publish",
+            "location": "https://roadie-app-qa.s3.amazonaws.com/gigs/15649/images/198b3fd7-d7d4-4315-9ec9-4286ff4119a0.jpg",
+            "index": 1
+          },
+          {
+            "id": 13566,
+            "type": "publish",
+            "location": "https://roadie-app-qa.s3.amazonaws.com/gigs/15649/images/dd6c1402-fc0a-4158-8756-ee21e560e75d.jpg",
+            "index": 2
+          }
+        ]
+      },
+      "manager": {
+        "id": 3752,
+        "preferred_name": "S-twl-two L.",
+        "avatar_url": "https://roadie-app-qa.s3.amazonaws.com/profile/avatar/3752/0a7bf47f-0e8c-404c-8ae3-2832de92d4da.JPG",
+        "social_id": null,
+        "social_type": null
+      },
+      "pricing": {
+        "amount_paid_to_roadie": 40.0,
+        "delivery_fee": 10.0,
+        "safety_fee": 1.0,
+        "insurance_fee": 0.0,
+        "total_price": 51.0,
+        "line_items": [
+          {
+            "category": "incidentals",
+            "amount": 8.0,
+            "description": "tolls"
+          }
+        ]
+      }
+    },
+    {
+      "id": 16091,
+      "title": "atl to okc 3",
+      "delivery_deadline": "2017-01-09T01:18:00Z",
+      "price": 166.0,
+      "delivery_fee": 42.0,
+      "status": "published",
+      "total_distance": 851.255279273,
+      "created_at": "2017-01-06T15:58:04Z",
+      "updated_at": "2017-01-06T15:58:04Z",
+      "category": "shipment",
+      "pickup_location": {
+        "latitude": 33.7622754,
+        "longitude": -84.3939361,
+        "friendly_name": "Baker Street Northwest, Atlanta, GA 30313",
+        "city": "Atlanta",
+        "state": "GA",
+        "zip": "30313"
+      },
+      "bearing": 277,
+      "delivery_location": {
+        "latitude": 35.472973,
+        "longitude": -97.51703,
+        "friendly_name": "North Harvey Avenue",
+        "city": "Oklahoma City",
+        "state": "OK",
+        "zip": "73102"
+      },
+      "route": "geamEbebbOfFqpA`mA~WzOts@uExgG}~@|oEsjAxhLoh@zhIpqBxxR~zD`lM`y@fuJsb@buLbj@f}OnIvrIhoCpyJfWhnXv{AjaWxpDnaTfMzkIjjCjpRhy@v{[jd@zxJjfAhmFrjAfzSgVrnPk\\vxHi_Av`Uog@xkHpa@jmHva@dzNhkE``[zW|iDz`BvzFkFtgLpwA`eEuaA|gDox@|wFhzCrlEzXl~AmcAfQkaBlYuvC{gA}fBzyEqLvfCiqAxmGm|DriFo{DxiNmEzpEcpA~cB_uEtlL{p@vjEgjDhuBicEji@c}@tpAkhB`wGci@xrFklGbqGccAbwOodEf}C{fAlwFmlErrMinAx_LutCzwTs`DvwLeqFxcMcv@liGasBbzEybB~rDuoCtlCg`BpvDq`ClRaeDz{@ubBvoFy|Ddx[q~C~dWztAzmHorEp}HocAfkVtXpjDwoBloK{dCzlPk^daDqdCpmCqgEpgF}sEtaIu`@taEwqFjwDsgCfcEe~G|~Gc}EfcNoyKjvLqeBxlFaw@diIefEfyEmv@fjHimMpuPqwEnnCcyCxqHq}Ff|^caId`Js`GzvNimMniKaeF`_Fq{BflBvs@lsIq^niGaw@~uCclEqj@cb@pVeuE~jPw~@ruErmB~wIpJ`q\\beBlzF|`@vyMlnDj_ObuHb}Q~sBrcEk`@pfGha@||EttEbcKpmGbf[tjDddTbsBtuN`cChnIr}C`xJdaB|cJtDflJ|pC~gNjXf_Xp~Af~OtW`qNwLfzg@llBzwWpc@d{Rs`Ap{HsrDp_F}z@j`B_yCv\\m_E~_Day@xjB_dCthAkbGllBqhIujAo|Jpm@gaBiReaC`oByoA~kBmc@hhImxBbmDsgBxdIuTboLudAnhImElrFwjCjlJ{aHt{Jun@piNpe@t`IonArzJotG`zMy}A~rEkg@l_GqzBz`Ui_BnaCefEx}CevB|fB}kDvfF_lAfhDey@rvGyoCxsOc|AvdOaOleI{fBz_YarApbO}GbnGjYthTd`En`Qp_AtbLfrCd|Hhb@xiFoXnkKgMfvBxy@|_EhkGxaNxrArsFvV~nIaj@jrJulEb|ImeBvyCfCfbDh@|cGoiA|ySguCfjFsa@tzEu@xuLht@tfMdIbj\\rpCnwS{Af|W`l@tuk@pfBbyJjIvfMkCptZ|Zlgj@`yBxwSxrAzhG`y@pzJtFh~YxCjag@kc@n{Irb@pxNx]jxVk`@laVaMj_MwiC|eIy{C|mQunElfLn[d}Cut@tyAoGbeA",
+      "package": {
+        "id": 16036,
+        "size_kind": "super-long",
+        "images": [
+          {
+            "id": 13749,
+            "type": "publish",
+            "location": "https://roadie-app-qa.s3.amazonaws.com/gigs/16091/images/1f031529-1cae-47f7-a2c1-800792023e90.jpg",
+            "index": 0
+          }
+        ]
+      },
+      "manager": {
+        "id": 12045,
+        "preferred_name": "Jtest S.",
+        "avatar_url": "https://roadie-app-qa.s3.amazonaws.com/profile/avatar/12045/409a90e7-b89c-4c91-9d84-511f71cc4fc0.jpg",
+        "social_id": null,
+        "social_type": null
+      },
+      "pricing": {
+        "amount_paid_to_roadie": 166.0,
+        "delivery_fee": 42.0,
+        "safety_fee": 1.0,
+        "insurance_fee": 0.0,
+        "total_price": 209.0
+      }
+    },
+    {
+      "id": 15952,
+      "title": "ACT 1",
+      "delivery_deadline": "2017-01-09T19:05:00Z",
+      "price": 12.0,
+      "delivery_fee": 4.0,
+      "status": "published",
+      "total_distance": 8.290331882,
+      "created_at": "2017-01-04T15:05:23Z",
+      "updated_at": "2017-01-04T15:05:23Z",
+      "category": "shipment",
+      "pickup_location": {
+        "latitude": 33.8522931,
+        "longitude": -84.3791,
+        "friendly_name": "Piedmont Road Northeast, Atlanta, GA 30305",
+        "city": "Atlanta",
+        "state": "GA",
+        "zip": "30305"
+      },
+      "bearing": 189,
+      "delivery_location": {
+        "latitude": 33.7622749,
+        "longitude": -84.3938541,
+        "friendly_name": "Baker Street Northwest, Atlanta, GA 30313",
+        "city": "Atlanta",
+        "state": "GA",
+        "zip": "30313"
+      },
+      "route": "curmEde_bO`ApANHH@NEH@R^DNr@s@x@cAd@w@j@mAfAkCx@yBn@sBl@sBfBaGNa@eAk@s@e@kCiCq@u@gBmBw@y@kA{A[o@{@sCVs@PONEXE~B_AfBy@x@a@tFsCXe@nCsAx@c@TOnBqAvC}Bn@q@dAkA`BkCdCcFxCaGpAaCpA_Bp@m@hAeAr@i@bAq@~Au@`C{@dAW`AQdBQhAIjM]jE?tCDlBJvCXpCX~B\\bDb@bBRxCNfCFfC?pCIxCOpAM`C_@tCk@lBWv@Iv@Ap@BrALdB`@hNxFjBt@t@JxIpDfElBbC|ArAlApAnAtA~AvC|D|AdCnAbC`B|DpAvD`BfGdB~Gf@tBrDzNx@nCf@xAzAtDzA`DrAhChAlBfA`BbIjLv@dAhP~UvCdFfFtKjDrHjC`Gl@dAx@fAxAtAlAx@~@f@bAb@~@VjAR~ALr@?dBEdBUrA]pQyF|@ULCrBa@lFs@`BMRF|@ErEM~FGjECpCExFUlCKfJA~F?xFE`CI|BOh@IzEm@vEs@vC[~BEnB@pDLpBHrCJxDFbAG\\Ph@DpAGdDYfBK~AAjC@TAdB@n@@BAXKxB@xABn@FNFPF^BZBx@?zB@A|GBxH?z@",
+      "package": {
+        "id": 15897,
+        "size_kind": "large",
+        "images": [
+          {
+            "id": 13731,
+            "type": "publish",
+            "location": "https://roadie-app-qa.s3.amazonaws.com/gigs/15952/images/5c619f5f-8b37-43e0-ac01-bd6a678c5dc7.jpg",
+            "index": null
+          }
+        ]
+      },
+      "manager": {
+        "id": 2532,
+        "preferred_name": "Xtranu",
+        "avatar_url": "https://roadie-app-qa.s3.amazonaws.com/profile/avatar/2532/0af290e1-8110-42f3-9062-c830a823fb1f.gif",
+        "social_id": null,
+        "social_type": null
+      },
+      "pricing": {
+        "amount_paid_to_roadie": 12.0,
+        "delivery_fee": 4.0,
+        "safety_fee": 1.0,
+        "insurance_fee": 0.0,
+        "total_price": 17.0
+      }
+    },
+    {
+      "id": 16092,
+      "title": "road trip1",
+      "delivery_deadline": "2017-01-15T00:16:00Z",
+      "price": 40.0,
+      "delivery_fee": 11.0,
+      "status": "published",
+      "total_distance": 194.84330447,
+      "created_at": "2017-01-06T15:58:54Z",
+      "updated_at": "2017-01-06T15:58:54Z",
+      "category": "shipment",
+      "pickup_location": {
+        "latitude": 33.8522931,
+        "longitude": -84.3791,
+        "friendly_name": "Piedmont Road Northeast, Atlanta, GA 30305",
+        "city": "Atlanta",
+        "state": "GA",
+        "zip": "30305"
+      },
+      "bearing": 47,
+      "delivery_location": {
+        "latitude": 35.5581343,
+        "longitude": -82.5540128,
+        "friendly_name": "Biltmore Estate Drive, Asheville, NC 28803",
+        "city": "Asheville",
+        "state": "NC",
+        "zip": "28803"
+      },
+      "route": "curmEde_bO|FPpHsRgHcTqD}KjVuLbd@sj@nnBqFnF{]id@uiAmj@u_B_^_eBsNoXax@}j@wdAk}@{u@efAicBguAgxBmlEoZ{uCiq@czAilAsgDuh@mbAkbAyaConAosDkf@ydA_hCukAsiCi_Bg~@s|@c|Bk~Cy`Aif@uvAgdBihBuwAeaByx@}oAiv@acCa_CywC{lDovD_iCgfDyvCm`BycDkL}e@mz@{cA}}AwbBup@_Gcl@mi@c_C{xAue@cQud@u`@yh@oVo~@@}r@e]uxAwsAwg@csAkaBg~BozAkyCgfAifBqeCm|Ea`Ay~@o`AyeB_t@{k@kl@k|@odEizDyzCuyBabAssBuVy[oYwIo`AeAgdAof@{nAgfAqVajB`Bi{A]im@m]yh@ep@o~AcgAgfA_^yr@kVa@sa@pWuc@bV_Z}@gqAsGgy@|Mqt@rAir@sd@}dAkdAsnAyf@q~@{MigAma@i{AmiB{h@sWcSu`@}w@cTmW`GiVvb@eKtTe]jKes@q_@m`Bi@qd@eGsVz^w|@fp@aaAvyAsOdV{h@iF{hAuG_t@jQix@ag@{X{f@auA_g@ygC}_AebA{\\af@~DusCmn@{}@lS{n@Q_sBuNomAtKoz@i[k|@fAmv@iMk{@tK}o@pUqg@e_@y`AbGwgDbQio@hLc[yF{mCoVw|Cjr@_zB|g@odBwg@caAmCzDucASqd@_^im@oe@kw@_f@sD}k@jRcSrGur@gBkm@qEc_@xIeuA}t@_]_Y_Wsj@eq@mvBki@k\\cQeHmZHoOsK@qkAiS_VcRtNmGgX{o@gl@wbBuy@wMgnA_a@uZ{e@cZkx@vNwsAnAgk@uh@m[iMqm@~]kc@tAeRiKuP{Xo`@sG}x@j]{Qy@_EkMzO{|Aef@evAkOcXkRqEcm@aw@_Jsp@rYm\\Rm_ByNij@Raq@nEmi@uCkt@hAehAmUsWC}f@sJg\\gi@kCsXo^}v@ss@{V[er@gwA_Mq_@hFm|@gkBeqBug@wuAeIcnBcOm}AaRoT{^mEmaAcD}m@}TqdAkk@siAkdA_^qmB{[_c@ks@kkBeIqzAnCuq@{}A_dAib@kwD_[iwBaS_pBnAcx@zD{iAxU{v@fn@gWlWwX_Dgg@sA_q@bHcdAmCamBaHqvAqLmc@qYq[iJup@aOa}@{Rg|@jNmxCcBqdAgNgv@iGwd@~Hef@cPycA`AcoAbV_tBBgq@kSmkAiXm`@aEe~Apa@os@uB}bAwAaoAxG{SuHwAqf@x\\iI`FtI|[tRt[zVx@J@",
+      "package": {
+        "id": 16037,
+        "size_kind": "medium",
+        "images": [
+          {
+            "id": 13750,
+            "type": "publish",
+            "location": "https://roadie-app-qa.s3.amazonaws.com/gigs/16092/images/8f75049d-b7af-400d-b28d-502539eddc2b.jpg",
+            "index": 0
+          }
+        ]
+      },
+      "manager": {
+        "id": 12045,
+        "preferred_name": "Jtest S.",
+        "avatar_url": "https://roadie-app-qa.s3.amazonaws.com/profile/avatar/12045/409a90e7-b89c-4c91-9d84-511f71cc4fc0.jpg",
+        "social_id": null,
+        "social_type": null
+      },
+      "pricing": {
+        "amount_paid_to_roadie": 40.0,
+        "delivery_fee": 11.0,
+        "safety_fee": 1.0,
+        "insurance_fee": 0.0,
+        "total_price": 52.0
+      }
+    },
+    {
+      "id": 15807,
+      "title": "Pet 12-29 A",
+      "delivery_deadline": "2017-02-11T21:24:41Z",
+      "price": 17.0,
+      "delivery_fee": 5.0,
+      "status": "published",
+      "total_distance": 7.107241498,
+      "created_at": "2016-12-29T17:07:45Z",
+      "updated_at": "2016-12-29T17:07:45Z",
+      "category": "pet",
+      "pickup_location": {
+        "latitude": 33.8522519336074,
+        "longitude": -84.3797940080459,
+        "friendly_name": "Piedmont Rd NE",
+        "city": "Atlanta",
+        "state": "GA",
+        "zip": "30305"
+      },
+      "bearing": 1,
+      "delivery_location": {
+        "latitude": 33.9162409,
+        "longitude": -84.3792254,
+        "friendly_name": "Roswell Road",
+        "city": "Sandy Springs",
+        "state": "GA",
+        "zip": "30328"
+      },
+      "route": "_yrmEpm_bOIUQW}AeBOO@CPc@hAsAT[f@a@PELAhChDLJJ@LEJ?PXFL@H^a@XYl@u@PUh@eAdAaCz@uBd@uAlA_E`AgDz@kCcBaAkAcAiBiBuB}BuB}Bi@y@a@kAi@gBOy@Ki@AGAIKGUO]Wg@OkDGkDCoKSOBEFgGOiAGoDK_BGu_@sAaCOqAOeCk@kAc@oBcAsDuCqDeDa@_@kAy@{AcAy@c@gBw@m@QmAYu@M_BQy@EwBAiDCeCA{KEiHHgFHoA@mPHi\\JsWH}BAmBGcBMkAQkAS}A_@_A[qBy@yIiEgBy@oDeBkK_F_OcHeHgD_Bq@_Bi@wBq@kD}@aDs@wGoA{Eq@iCSmBAaBBoBLO@]E]Cs@Bq@?UC[KUM[e@Km@Bk@FWLUNONGREZA^JXVR^bA~Bv@fBLJLDz@zBz@jC|@tDt@~DZjCZrDF|ADrD?pDGbCKvCe@~EcGzk@Y`@Mj@_AdIi@vFg@vFKx@IRe@~@yAJkBPgABuB@{FO",
+      "package": {
+        "id": 15752,
+        "size_kind": "large",
+        "images": [
+          {
+            "id": 13674,
+            "type": "publish",
+            "location": "https://roadie-app-qa.s3.amazonaws.com/gigs/15807/images/2a71677e-d89f-4612-9e4d-19401e46a1ee.jpg",
+            "index": null
+          }
+        ]
+      },
+      "manager": {
+        "id": 1954,
+        "preferred_name": "S-eight-nine L.",
+        "avatar_url": "https://roadie-app-qa.s3.amazonaws.com/profile/avatar/1954/996a3e3b-5a6f-4aac-aa43-0ab311854efb.jpg",
+        "social_id": null,
+        "social_type": null
+      },
+      "pricing": {
+        "amount_paid_to_roadie": 17.0,
+        "delivery_fee": 5.0,
+        "safety_fee": 1.0,
+        "insurance_fee": 0.0,
+        "total_price": 23.0
+      }
+    },
+    {
+      "id": 14241,
+      "title": "Daytona 12-12 A",
+      "delivery_deadline": "2017-02-25T02:01:00Z",
+      "price": 72.0,
+      "delivery_fee": 19.0,
+      "status": "published",
+      "total_distance": 489.350167743,
+      "created_at": "2016-12-12T21:09:22Z",
+      "updated_at": "2016-12-12T21:09:22Z",
+      "category": "shipment",
+      "pickup_location": {
+        "latitude": 29.1843394,
+        "longitude": -81.0607637,
+        "friendly_name": "Catalina Drive, Daytona Beach, FL 32114",
+        "city": "Daytona Beach",
+        "state": "FL",
+        "zip": "32114"
+      },
+      "bearing": 282,
+      "delivery_location": {
+        "latitude": 30.6043182,
+        "longitude": -87.9108934,
+        "friendly_name": "Yuille Lane, Daphne, AL 36526",
+        "city": "Daphne",
+        "state": "AL",
+        "zip": "36526"
+      },
+      "route": "yecqDxcwmNkPaGgd@vSvTfdAps@~a@`o@j[gD~MuyFj}AulLlsCm~Cfg@uhDsBkqA|BeaKtfDyuOfoEkoFv{AomCd|A{bPxaIkaAle@ic@~q@}zApaDql@dl@wxQ`rFyvNn{Ew_K|vBcqEdyDkqK|qFu~B`lAayB`PqpEp@ww@l^ymEjkEa_CtvAklAvf@g|ArJqsAyHyaFdqCsnBljBslFbgEo}BvtBaWjr@Z`y@oh@dkBu@haDp`@vpEpGzlKbv@zsOxXd|EtcAzvF|m@`~Mr\\x_DtyA~wEvZ`gAuMvlG~TjiDjlBvfMhl@v`EgFdg@anAvfCyl@jlBWz~F}IfmM_U`_Epj@`yCpk@vzIdZ|_JsO|xF}EhqEunAtnE_}@p_Es|@v~Ist@dcD_^|uEwp@dnEuo@pmBetCrwF}kAzhBae@~hBiMdzC_IxdC`VzbCn@d}Aj{@tvBjL|h@sf@~kDy_BndL{sCtjTejA|bGo~@paH_mAhyFo{AraC}Q|hAiCxvEdb@h|KcJx|Gce@heFoe@pkCyBxoDiKzxFaeB`_Hgx@tqEgEthIu\\xmDcB|rE_Zxu@kX|o@aN~sGpAb}Btq@noEbQvwBK`|B{DrqIqbAhvByt@xjBoRvmIHf{BvRry@b|A|wFv^`rCiElqEo^dtCiJ`lDuh@fkCwjApuC{eCvmFoLz|CmJ~nDeArnBej@tpCauCdeIcsBdzJcoCvgDma@`aAiRlrA{u@xoB_HbbDh[~~CosAhyE[p|Dui@ttC\\faA~G|tCe[bzA~Kb~B{KxsAgk@lqA_\\tfB{{AnqD_cAldDg}@f|DetD~mI_dAjbIedD~bJuOl|BlEvbDxH~dGfp@zhIxI~aJ_Gf~Lez@`uNgf@~qIsAxsEhLlwFg@xlFx]rrEh^hkEr~@tvBpzCjaIf|AnkFv`A~bJwCt~MyOrkG}oDxqGia@rvCqkBnaCmVxsD}HrbCtnB`|I~AtcGdsA`aJlCxyA}t@npGnF`{NtUluBbi@z`CcG``H|z@f}K|yA|yFdlB``Kde@p`CneE`yK~oBf|GrdAhwBxlFxsH~zE~aHxDj~GxaDhhFt`@~hAaE|xF}EtlJcAjp@}bApjCycCx{Ew`DprF_fA`cFwUr{AcB~_DqBd}BkPzdDsQ`yC_dAffCatAltBcx@~lBmv@`_CeRxgCia@ldC_FjfCyN`bBe`@|aBik@b~D}@r{Gig@txFq\\jlF|g@`cIoExa@|aAjF`cBuJjaBij@~HwD`D~Y|RrE`YL`GxMSL",
+      "package": {
+        "id": 14186,
+        "size_kind": "small",
+        "images": [
+          {
+            "id": 13386,
+            "type": "publish",
+            "location": "https://roadie-app-qa.s3.amazonaws.com/gigs/14241/images/0f9ff0c6-338e-4e9c-bb86-48e830a21fd2.png",
+            "index": null
+          },
+          {
+            "id": 13388,
+            "type": "publish",
+            "location": "https://roadie-app-qa.s3.amazonaws.com/gigs/14241/images/10750fdb-67df-4de4-beb8-cfd8fa57d6b6.jpg",
+            "index": 1
+          }
+        ]
+      },
+      "manager": {
+        "id": 1778,
+        "preferred_name": "Delta D.",
+        "avatar_url": "https://roadie-app-qa.s3.amazonaws.com/profile/avatar/1778/bc9f3c43-6bee-4151-adbe-a5910acccb4c.jpg",
+        "social_id": null,
+        "social_type": null
+      },
+      "pricing": {
+        "amount_paid_to_roadie": 72.0,
+        "delivery_fee": 19.0,
+        "safety_fee": 1.0,
+        "insurance_fee": 0.0,
+        "total_price": 92.0
+      }
+    },
+    {
+      "id": 12727,
+      "title": "Bottle Water 6-1 Pet",
+      "delivery_deadline": "2017-03-16T23:34:03Z",
+      "price": 109.0,
+      "delivery_fee": 28.0,
+      "status": "published",
+      "total_distance": 376.677585684,
+      "created_at": "2016-11-17T21:07:29Z",
+      "updated_at": "2016-11-17T21:07:29Z",
+      "category": "pet",
+      "pickup_location": {
+        "latitude": 64.7569919,
+        "longitude": -147.2810766,
+        "friendly_name": "Route 66 North Pole",
+        "city": "North Pole",
+        "state": "AK",
+        "zip": "99705"
+      },
+      "bearing": 216,
+      "delivery_location": {
+        "latitude": 61.1700251,
+        "longitude": -149.8576169,
+        "friendly_name": "East 56 Avenue Anchorage",
+        "city": "Anchorage",
+        "state": "AK",
+        "zip": "99518"
+      },
+      "route": "ezfjKvy|a[fJ~gBdl@~`AtTHeCfd@ce@hfBkrA|tFoPr_EgcBrpR_{D`xRgj@reTqGpiKif@|jHqgEhrK~yAleMvCrbHj~@fe@|iBbxCbqArxIjlAdnMrZlwJxrA|lEvdAj|Izc@h|I~mAbvG`{@~jAbgAtmG`nA|uCzEvwD{c@h`DrJlrH~{@`_MxJrfIj`@vpFyc@zvB`YjiEzaCf`Ldi@buFvnHhd[d_CneGvvCjkA|vAstBtiB_ZbgAskB`wAsaA`o@r\\`eAiQb_DjeAzcAg}D|sDRdcBy{AdxCouCdgCf}A~o@hsArlArLt_CkX|{@pFxmI~pN`kAb_K`eArqCpoCxkGto@p_ItYnLrzEud@nhFusDzbAoeBziAmK|rCuzB|MyHxiAwkCxhCwjBddCcyFlx@g@|`FahBh_@cRxOyi@x}Ah]n{Ac_@pcAkUh}Cw_EptF_nK~lC{y@byB{VfrD}yIhDk~AdoAsfBf|Bqt@dtAqjA~t@~Fx~A{iBhqAfqA~aDqiFfaC{xE|aAtcBpfBceFl|Aa~BfqBlM`wAvmBvoAlOtlDj`BlgCglBndC~TxtBb_AtlBrLtnBg_B~kEdbMjtDrrAfhC`dJzj@~vHxxBjuKbxEfsQxqC|sI|d@lE`~D|oGjp@{r@z`BraCncJvvTxpDr}FngDv}GfkH~sLl|EvxHbhDx{@z|BnnDxgBt`@hiCbtEhxFlzHraBjdDxrA`bIv^tnGxx@fqChiBlpBthCveD`vCfmLd{Gd`XhhFjrQp}EbbHj|DatBnhCbSrqBma@phCnyAziC{]l|A~gAjhBso@pqAzIzrAnfB`}AjoBt{AzL`_Fuj@fsDuk@l`Fxc@pxIugDvsC_Cz}Br{@p`Bsa@xaDz}@faCigClvDerCt{A}aF~\\sxH~cCe}Ep}@cmFth@kw@nrBduAjoArr@bbEyFbqD`DtpAz|Af{BesB~dBo`@frBzw@ruD}U`lArwBxpAwh@trBvZfmBl~AfkI}kBtpAj|Bf_Bv]zaCsuCrhEkfC`pEgwCr`BamFx}B}iCr~AsjCly@ogGbsCg}Mdg@o`DrzAmyEvbCstA`lBidFw]eaKsm@w|BvLwuHkTakGb\\_tHx`@u~Pva@kbO|~@mkKjhAqFdiF|Wb|@g_AtuCbhBnt@flI|bCvzLnuC|uFrkBpkFncBdxGj{EdmG`yBbfElnBos@n_B~wAtiA|p@ta@zdC`{ApmBlnDb}IpxAnuOrl@vdIDn{EreAhe@tVqP|tAeKfe@a\\pmA}W",
+      "package": {
+        "id": 12672,
+        "size_kind": "large",
+        "images": [
+          {
+            "id": 13188,
+            "type": "publish",
+            "location": "https://roadie-app-qa.s3.amazonaws.com/gigs/12727/images/951a1028-cfb2-4c29-b8ed-8313b7050d45.jpg",
+            "index": null
+          },
+          {
+            "id": 13189,
+            "type": "publish",
+            "location": "https://roadie-app-qa.s3.amazonaws.com/gigs/12727/images/375cb2ad-3377-4659-a187-0e18b2d2314d.jpg",
+            "index": null
+          },
+          {
+            "id": 13190,
+            "type": "publish",
+            "location": "https://roadie-app-qa.s3.amazonaws.com/gigs/12727/images/8f67d56d-362a-452d-b26e-82c6232766c8.jpg",
+            "index": null
+          }
+        ]
+      },
+      "manager": {
+        "id": 3752,
+        "preferred_name": "S-twl-two L.",
+        "avatar_url": "https://roadie-app-qa.s3.amazonaws.com/profile/avatar/3752/0a7bf47f-0e8c-404c-8ae3-2832de92d4da.JPG",
+        "social_id": null,
+        "social_type": null
+      },
+      "pricing": {
+        "amount_paid_to_roadie": 109.0,
+        "delivery_fee": 28.0,
+        "safety_fee": 1.0,
+        "insurance_fee": 0.0,
+        "total_price": 138.0,
+        "line_items": [
+          {
+            "category": "incidentals",
+            "amount": 8.0,
+            "description": "parking "
+          }
+        ]
+      }
+    },
+    {
+      "id": 9028,
+      "title": "Web 9-2 A Update",
+      "delivery_deadline": "2017-04-01T00:30:00Z",
+      "price": 15.0,
+      "delivery_fee": 4.0,
+      "status": "published",
+      "total_distance": 34.033111041,
+      "created_at": "2016-09-02T21:37:53Z",
+      "updated_at": "2016-12-27T21:17:32Z",
+      "category": "shipment",
+      "pickup_location": {
+        "latitude": 34.1217463,
+        "longitude": -84.2059801,
+        "friendly_name": "Shiloh Road, Cumming, GA 30041",
+        "city": "Cumming",
+        "state": "GA",
+        "zip": "30041"
+      },
+      "bearing": 202,
+      "delivery_location": {
+        "latitude": 33.7662727,
+        "longitude": -84.3493438,
+        "friendly_name": "Moreland Avenue Northeast, Atlanta, GA 30307",
+        "city": "Atlanta",
+        "state": "GA",
+        "zip": "30307"
+      },
+      "route": "_lgoEhn}`On@o@`Ai@h@MrBY^S\\e@Hc@zA?xAi@fAq@|@gAj@qBd@mCh@sAtAkBd@[dAg@hAQtDElNBhAXrAr@h@f@dCvDjAjBv@hBrAjG`AjFb@rBbAjDrBxEz@xAlBhCdAdBN\\l@|AV`Ah@|Db@hCrDpPZ`CQz@W\\oARgANaEh@kDn@o@VaC|A_AfAkAlBuEfIgAnAkA~@gAx@mB`A_DhA_GbA}AL}@Bj@~A~@nB`AjAnE`EhBdCzCzHtCtH~AbERDnD~J`BpEdDtIhDvHrFxKpFxIvPfWbI|LvObUph@lr@tFrHdDnD~CfCvBrAvJrEbzA`n@zl@vVjV~JxBbAlEdDbCrC|OdYbCzF~BfIxQn_Av@rDbBfGnDvJxCdGzBtDxC`EdDtDlMvMbXnXtGrGbErDzH~F~ShNliAbu@rd@rZp_@tVfG|DrEpC~FlCjGpB`HxAbRjB`a@nDlQ~A`Hx@jJ`BxHhB`IdC`KxDzIlDfDrArgAjc@rJzDdK~EpQpK`_@`UxE`CrFlBzHjBxH`AdFVz`@j@`TAbYc@n`@?~y@?jh@@|DI|Nq@lHQpEWpE@|DHjIx@dGrAlGnBfWvLp[fOxG`DnBp@zD|@hD\\zEJ`ZIzo@IpOBvFGpHInFCnCR`Cd@dBl@dB|@nDdC~H~GnEbClBn@jCd@hBNvJ`@zGP`GX`[dAnMd@bEBdCQzBc@lAa@rGyCrJyE^WjBmAfEoDdAkA`BkC~GeNpAaCpA_BzBsBvB{AjD{AzBm@fDc@fFSzKS|A?bGPhHr@bH`A|Fb@fCFrDA~FWlC[jFaAtC]hB@tC`@vAd@dNxFz@\\t@J`P~GbC|ArAlAfDnDvC|DbCdEfAxBtC~HzCfLpDdOpBvHdA|CvC`Hf@`AtCjFrExGtO|TbGzIvCdFfFtKjDrHjC`GbA`BrAzAjA~@jBfA`Bn@`ARjDXv@?fD[dTwG|@UdGeAbEa@xA@lKQpGGbMa@|LGxNE~FYdGw@jJoAVAjBC`HNdGTxDF~BQdCw@zAkAf@o@zAiClAiCfA_CpDyHz@_BrBuCxGwGx@YvFcGjC{BpE{BhBgAh@qAAyA[oA{AmDk@cDO_E?aGDaDBoWKaCYgBqEkNuDyIaAcDcCeJgEgOe@iBWiBToHIcBWw@{@qAcAg@_AWoB_AsF_EuD{Bg@e@oAqB[_AO{@i@}BuAiDa@oBIyA@uCAUR?bBGdAGtFB`C@hCBA`@J^",
+      "package": {
+        "id": 8974,
+        "size_kind": "small",
+        "images": [
+          {
+            "id": 13652,
+            "type": "publish",
+            "location": "https://roadie-app-qa.s3.amazonaws.com/gigs/9028/images/da8e3cc1-c3a2-4984-b4ff-16658aeee85e.jpg",
+            "index": null
+          }
+        ]
+      },
+      "manager": {
+        "id": 1150,
+        "preferred_name": "Mary J.",
+        "avatar_url": "https://s3.amazonaws.com/roadie-app-test/default/avatars/avatar0.png",
+        "social_id": null,
+        "social_type": null
+      },
+      "pricing": {
+        "amount_paid_to_roadie": 15.0,
+        "delivery_fee": 4.0,
+        "safety_fee": 1.0,
+        "insurance_fee": 0.0,
+        "total_price": 20.0
+      }
+    },
+    {
+      "id": 12836,
+      "title": "Delta Gig 11-21 A",
+      "delivery_deadline": "2017-04-18T22:52:16Z",
+      "price": 160.0,
+      "delivery_fee": 40.0,
+      "status": "published",
+      "total_distance": 3744.276634301,
+      "created_at": "2016-11-21T19:30:55Z",
+      "updated_at": "2016-11-21T19:30:55Z",
+      "category": "shipment",
+      "pickup_location": {
+        "latitude": 58.3592882,
+        "longitude": -134.5834586,
+        "friendly_name": "Shell Simmons Drive, Juneau, AK 99801",
+        "city": "Juneau",
+        "state": "AK",
+        "zip": "99801"
+      },
+      "bearing": 116,
+      "delivery_location": {
+        "latitude": 34.1211362,
+        "longitude": -84.206641,
+        "friendly_name": "Shiloh Road",
+        "city": "Alpharetta",
+        "state": "GA",
+        "zip": "30005"
+      },
+      "route": "{hecJzxltXamCzcPp_Fx{Akh_Bn|_BmpfArm_@qzMppKsy^ohNi{BsqEewBidByzD_iEucD}bGyzKy{E_z\\yji@srb@ehi@g{^egb@ukMxbYopRw}bA}lYck{BetLqfnA|yg@ibbAb|`@}x_Bl_d@qr|C{hD}joAy|Pqxc@w|J}_cAuxAyjgA_wKwva@b{CauiB`uQ}nuCviVcmaBayLac`Br^kqh@piLu{a@f`PlXlxNxeCv{Dcg`@fzO_s_@hnLipvB`vl@_spBjcNjrBxg_@{tYfzYkjJxeSmaDr_MkzPqbL{fiApoA}xm@~qQwtPh_PwldAkp@uqpCk_b@gkiAoqCgt~A~`Lm`z@fo]hqEt}Oi`Bprs@{tBzxSo_Od~LdmX~gWf{F|bP|bJb|f@loe@xkgAu`d@tqOmfYh}]u{R~lM{sl@nmSaw`A`dt@}wuAjaNoxx@fsp@wru@zp]}{}@xip@eke@fn\\{`s@nfZscT`}e@kfjAtdOwgpAjlG_rwAvrGssKLazhAy`AyeZz}Cibc@xl[guhCrjMkaQthf@siAhr|@iez@lqb@c~jCtjQadeAfq{@craExnUm_sA`rWian@fzNcwa@aYwksAxVmqgBsA{q|BdiQ}yfAl|_@eiiCmlFordDfv{AsirKtpWwcf@f}s@}}_Dvm]klgB|h_@_|p@zqxBkh}@l~jAcvnA~rm@ybs@tce@mqvAjxUa|vAzeVaf_@nf{AabpDvuc@_mhAxyWezo@dx^c{Bv}q@ylD|cXq~[x~Xs|w@vlSibJ`jJ{bq@xhEwt\\~c[itEx`[we\\xpa@uuhAnsX_yj@xv_A_~nEhnZcviApoa@eck@d_JQtyG_ti@?esm@v{BeuIfau@{`i@j|s@_ak@y{Dui}C`lGiywCxwTm`lBrqkBagaBjco@}clA`iTkfg@jrUshuArjXqpnBx~a@ai|@zbaAme~BdhXyeaCtkI}bkDhlTytaAlvYsmm@vgcAe_yAlyYqcp@vd]s}Rtxo@st`Bthc@g}d@hnJ}bq@|s`Aogh@nkk@wpm@fow@quU`luB`mFtduDhoIpg}AszLr`i@mbCxv`@ar~@~~XaldAx|hAsvAx~v@btEdz}@|ck@lkk@`aZl`e@vtn@rqgArzBpg^icHtq{ArrI`s`@cgDn}`@glWvf~@up^b`Fyw~@}iKiyk@tmpAgalCldaA{_gBlvvAwshA~p_Bsz}Arb`Ak_x@hrEyov@kN{a^fph@ewl@twtBq`m@bdu@qvbAygg@gsh@",
+      "package": {
+        "id": 12781,
+        "size_kind": "small",
+        "images": [
+          {
+            "id": 13205,
+            "type": "publish",
+            "location": "https://roadie-app-qa.s3.amazonaws.com/gigs/12836/images/240eb0d7-9a5c-4c87-ad3c-a36121d07817.jpg",
+            "index": 0
+          }
+        ]
+      },
+      "manager": {
+        "id": 1778,
+        "preferred_name": "Delta D.",
+        "avatar_url": "https://roadie-app-qa.s3.amazonaws.com/profile/avatar/1778/bc9f3c43-6bee-4151-adbe-a5910acccb4c.jpg",
+        "social_id": null,
+        "social_type": null
+      },
+      "pricing": {
+        "amount_paid_to_roadie": 160.0,
+        "delivery_fee": 40.0,
+        "safety_fee": 1.0,
+        "insurance_fee": 0.0,
+        "total_price": 201.0
+      }
+    },
+    {
+      "id": 8622,
+      "title": "Curl 8-16 A",
+      "delivery_deadline": "2017-07-10T18:20:00Z",
+      "price": 8.0,
+      "delivery_fee": 3.0,
+      "status": "published",
+      "total_distance": 2.561912633,
+      "created_at": "2016-08-16T20:59:45Z",
+      "updated_at": "2016-08-16T20:59:46Z",
+      "category": "shipment",
+      "pickup_location": {
+        "latitude": 33.759205,
+        "longitude": -84.331892,
+        "friendly_name": "Arizona Avenue Northeast",
+        "city": "Atlanta",
+        "state": "GA",
+        "zip": "30307"
+      },
+      "bearing": 66,
+      "delivery_location": {
+        "latitude": 33.7734251,
+        "longitude": -84.3006689,
+        "friendly_name": "West Trinity Place",
+        "city": "Decatur",
+        "state": "GA",
+        "zip": "30030"
+      },
+      "route": "os`mEhavaO?mBgAAoAIuDa@_@EMQAECGAO?Sf@{AbBaF^sAd@qCBa@LwB?kDIgDGsAO{AO{@_@cB_@uAw@eBmJkRoHaOWo@]aASq@u@gE[oCi@{NQsEMkCMiAeBcHm@{BqAuFq@{DqA{FeBkHyAuFo@sCi@}Dc@aCa@Jk@Du@Ci@Om@WwCiAOE_@E[?c@A{AAuCAoD@?xE?pB\\?",
+      "package": {
+        "id": 8568,
+        "size_kind": "medium",
+        "images": []
+      },
+      "manager": {
+        "id": 2517,
+        "preferred_name": "S-eight-fifteen",
+        "avatar_url": "https://roadie-app-qa.s3.amazonaws.com/profile/avatar/2517/f124b2eb-5e81-43d5-a6ab-575b57c53126.png",
+        "social_id": null,
+        "social_type": null
+      },
+      "pricing": {
+        "amount_paid_to_roadie": 8.0,
+        "delivery_fee": 3.0,
+        "safety_fee": 1.0,
+        "insurance_fee": 0.0,
+        "total_price": 12.0,
+        "line_items": [
+          {
+            "category": "incidentals",
+            "amount": 10.0,
+            "description": "For parking."
+          }
+        ]
+      }
+    },
+    {
+      "id": 8623,
+      "title": "Curl 8-16 B",
+      "delivery_deadline": "2017-07-10T18:20:00Z",
+      "price": 8.0,
+      "delivery_fee": 3.0,
+      "status": "published",
+      "total_distance": 2.561912633,
+      "created_at": "2016-08-16T21:01:32Z",
+      "updated_at": "2016-08-16T21:01:33Z",
+      "category": "shipment",
+      "pickup_location": {
+        "latitude": 33.759205,
+        "longitude": -84.331892,
+        "friendly_name": "Arizona Avenue Northeast",
+        "city": "Atlanta",
+        "state": "GA",
+        "zip": "30307"
+      },
+      "bearing": 66,
+      "delivery_location": {
+        "latitude": 33.7734251,
+        "longitude": -84.3006689,
+        "friendly_name": "West Trinity Place",
+        "city": "Decatur",
+        "state": "GA",
+        "zip": "30030"
+      },
+      "route": "os`mEhavaO?mBgAAoAIuDa@_@EMQAECGAO?Sf@{AbBaF^sAd@qCBa@LwB?kDIgDGsAO{AO{@_@cB_@uAw@eBmJkRoHaOWo@]aASq@u@gE[oCi@{NQsEMkCMiAeBcHm@{BqAuFq@{DqA{FeBkHyAuFo@sCi@}Dc@aCa@Jk@Du@Ci@Om@WwCiAOE_@E[?c@A{AAuCAoD@?xE?pB\\?",
+      "package": {
+        "id": 8569,
+        "size_kind": "medium",
+        "images": []
+      },
+      "manager": {
+        "id": 2517,
+        "preferred_name": "S-eight-fifteen",
+        "avatar_url": "https://roadie-app-qa.s3.amazonaws.com/profile/avatar/2517/f124b2eb-5e81-43d5-a6ab-575b57c53126.png",
+        "social_id": null,
+        "social_type": null
+      },
+      "pricing": {
+        "amount_paid_to_roadie": 8.0,
+        "delivery_fee": 3.0,
+        "safety_fee": 1.0,
+        "insurance_fee": 45.0,
+        "total_price": 57.0,
+        "line_items": [
+          {
+            "category": "incidentals",
+            "amount": 10.0,
+            "description": "For parking."
+          }
+        ]
+      }
+    },
+    {
+      "id": 4817,
+      "title": "Gig 2-3 basic 2 repost from cancel",
+      "delivery_deadline": "2017-08-13T23:00:00Z",
+      "price": 28.0,
+      "delivery_fee": 8.0,
+      "status": "published",
+      "total_distance": 29.389605558,
+      "created_at": "2016-02-03T22:30:30Z",
+      "updated_at": "2016-06-15T22:03:12Z",
+      "category": "pet",
+      "pickup_location": {
+        "latitude": 33.735652,
+        "longitude": -84.357495,
+        "friendly_name": "Ormewood Park",
+        "city": "Atlanta",
+        "state": "GA",
+        "zip": "30316"
+      },
+      "bearing": 32,
+      "delivery_location": {
+        "latitude": 34.014933,
+        "longitude": -84.183536,
+        "friendly_name": "State Bridge Rd",
+        "city": "Johns Creek",
+        "state": "GA",
+        "zip": "30097"
+      },
+      "route": "}}{lEha{aOGcJCAuDA?cCkEAEACCAEAKaI?wBDDbA@`A?nHCvEcDG}KHqDDsA?W?XlCTnCDx@H`HLbG@`GD~B@|@DtLDhBBFLV@~B@xOClK@p]Db\\IjDSjGm@|Fg@nBg@nAaAjBo@p@aAd@{@FeAOy@YYEIKeEmGwAmCsBsFOQMCo@uBaAaCcEkG}GuIyCqCwAeAkCkAwCs@gBWeFM}EFwGd@uCf@mBj@{At@aBhAgBhBuErGUZmAbBgFlGoCfCyB`CcBfCa@v@}DdJiBjDwAfBiAdAgC|AeBh@mBXuCD{CEuEK{GBk@DsSbCgHXcPBi_@IuOAmALoFJaCXgCv@wBpA}GtE_C~@iCf@q@DcDA{B_@y@UyAq@gCgBkB}BkCgF}FkNeBuDoC}EqLiQcL_PeHuKuB{DsBwE_BkEqD{M}AsGyCmLmA_EiA}CyB{EgEeH{CsD_DeD}AiAaHuE{OaJu@g@{AgAaBiB_BwC}@}By@aEeAqNq@iH_@wBk@aDaAsDqAwDoBgFkCyG}CkG}AiC}FkImAwBcA_CmJsXkFmOwGeSsFwPyDmKmM_[gEoKa@oAgAkFq@iGaB{Xg@aK_@{Da@oBiAwD}AiDkBoCuBqBuCmB{\\ePaFuCgAeAoQgUkPeT{BgCiCyB{BsAiM{F{GaD{DsCqBwBgIsJyTuW{BsC{BeDaKsQuHuMaCyC_BuAkMqJaPoLuL}Iqa@uZKe@qC}C}DmFoC_FeBwDmCcHq@iA_A_AqAg@wBSuBGaA@}A^o@^m@l@}@xAuFrJwIdMeIfLi@`A_LnP[p@CPCP_ChD_ArA}@xAeBdDkB~D{KdVkAtBqBhCgUxUyBzBIAO@w@n@}ExD{Az@}BnA[Do@GuFeBq@A_Di@{ScD}E}@kDiAuCyAoEgDmCwC_CoDwB{EoCgIkVgu@iYg|@kBgFkDqIgIuP{V{g@cN}XqFcLu@uAuAaDwBmHq@gBw@aB[[_AiAw@o@mCqAoA[qAMmFYmEw@sHqB{A_@oBo@sM{F{DiBgDsB{EeEsYe[kAmAsEgEaEwCaDiBcAi@_FyBsL_EgS}GiIqCuFwB{G{CeEuBgV{Nev@yd@_MqIsMiIsAiAs@_A}IuPuCqFgEgHmBsD}BwDmCmCoH}EwHsE}UcJmDeAyAWuPqBgScEcGyAeDq@}@Y]o@?Y?QzC{E`A}Ah@{@vBeDlCoDdC_C[]e@sAy@eBwA}C`@g@",
+      "package": {
+        "id": 4763,
+        "size_kind": "elephant",
+        "images": []
+      },
+      "manager": {
+        "id": 4621,
+        "preferred_name": "B-two-three-ten",
+        "avatar_url": "https://roadie-app-qa.s3.amazonaws.com/profile/avatar/4621/7e1d58e4-0e53-4142-bd73-9eed9833565b.png",
+        "social_id": null,
+        "social_type": null
+      },
+      "pricing": {
+        "amount_paid_to_roadie": 28.0,
+        "delivery_fee": 8.0,
+        "safety_fee": 1.0,
+        "insurance_fee": 45.0,
+        "total_price": 82.0
+      }
+    },
+    {
+      "id": 10848,
+      "title": "JMeter-Anonymous_at_Pickup_Dropoff",
+      "delivery_deadline": "2020-07-01T22:38:00Z",
+      "price": 400.0,
+      "delivery_fee": 100.0,
+      "status": "published",
+      "total_distance": 4298.878834867,
+      "created_at": "2016-10-10T22:56:45Z",
+      "updated_at": "2016-12-28T21:55:42Z",
+      "category": "shipment",
+      "pickup_location": {
+        "latitude": 61.2154318,
+        "longitude": -149.8983656,
+        "friendly_name": "West 7th Avenue, Anchorage, AK 99501",
+        "city": "Anchorage",
+        "state": "AK",
+        "zip": "99501"
+      },
+      "bearing": 112,
+      "delivery_location": {
+        "latitude": 34.0149328,
+        "longitude": -84.1835355,
+        "friendly_name": "State Bridge Road",
+        "city": "Duluth",
+        "state": "GA",
+        "zip": "30097"
+      },
+      "route": "odstJx_|q[cpv@ou~Bc}f@gtx@{kS}ipCqxKckgDoak@}fyFim@ge~A_}Ta|Xkh\\yix@ed|@meqC_dL}urBu{ZafX_mH}}u@qoU_uFi`e@ou|@iwHokxApsI_z\\b|Fwjm@h_Ugfh@hrRgxv@xdl@aozAflk@ego@rxj@_ya@pjo@gi\\jtvA{snEhri@kepAtaN{dr@dwu@wuoAb`KsvjAtib@mguAsZ}cg@x_@md|EeoC}l~D`n\\s|z@pbTudvBdwh@kmlA}vWsdjBdqm@g|oBhr~@{ulGwc[yjhBw~Fkw~@ojDk}hAiwNsvc@f|Rk}xBdaFkxsCnkU}zf@q_AssqAq{GsccAtwRoly@t}[`yDzwQq}dB~kVaoiBl~j@qnyAfwp@elZf|XwoCnjZk~]{hHumsAzrZid~@jrFeczBwvEu_uAubh@uanBh}SwzjBji_@pyCvyYbsCjfl@igK`~c@hxIxxZtcUvpW`sKt`KnxLfai@{iCn}k@keR~rXinYf{V{vi@psIq|t@|qTydh@f{s@sheB`c}Aaz}Cf|v@qcx@~bVmvk@vfl@uzSju\\w`zAjdB}nqBh`Pmnz@yOyqgAtiEcdhArc[ip|Bvry@ylMxflA}x_B``j@cdcEvpv@mvqD|}ToxmA~v`@c|_@meAsoeCt`Am}rBt|Rs`kExr[atvByGieaEbah@a|fC~~T_`hCr`k@yvcBxedAsloEfkx@kugCj{dA{fX|wt@q{j@njuAk`vAlpkAi~{CbgwCuzrHxif@qqlAbhm@g}E|j{@anLfwD}wV~lUkdq@ffQyvUbA{{b@r}Oc`Slgi@kz[x}Siv_@lz`@{u{@n}p@y`rB~mm@ucdDry_@ajuA~ka@gcA~yAshqA`nG}bTdw`Akcr@zz_@gmObkBspi@omDmt}C`lJctzCnlUq|mAzlq@ejl@x_oBamoCjyaAc~gFtr|@ay~B``j@}w{BjnPokS{dB}wr@`}DanaB~v]iy`Ctf{@sgrArdd@o_y@xlx@sgfArux@esrBbfd@yqbAltbAm_e@plk@oyi@xsbCucWlfnCbcQhrcCasBx`m@k|Errd@{`Olw\\i|v@tjMk|u@vzRicHfoiA}jAfev@rrRbvhBvccAthe@hdl@|qcA{fB`|iA{rBr`vAkuF||v@s`f@fqc@a~Ofe@ia}@_zGygo@nvh@m|cAt{xAiseC~mp@mau@hduD{cqDh|i@kxbAds@{{s@|po@ifd@|j~@{`PlzkAgrcAjkRqtg@_|Sue`@`Nig@",
+      "package": {
+        "id": 10793,
+        "size_kind": "super-long",
+        "images": [
+          {
+            "id": 12429,
+            "type": "publish",
+            "location": "https://roadie-app-qa.s3.amazonaws.com/gigs/10848/images/84a55895-0990-46f0-969d-4beb2780ad58.png",
+            "index": null
+          }
+        ]
+      },
+      "manager": {
+        "id": 1758,
+        "preferred_name": "S-seven-ten",
+        "avatar_url": "https://roadie-app-qa.s3.amazonaws.com/profile/avatar/1758/d0336c2d-838e-4f48-aead-e97bfcb40098.jpg",
+        "social_id": null,
+        "social_type": null
+      },
+      "pricing": {
+        "amount_paid_to_roadie": 400.0,
+        "delivery_fee": 100.0,
+        "safety_fee": 1.0,
+        "insurance_fee": 10.0,
+        "total_price": 511.0
+      }
+    },
+    {
+      "id": 3372,
+      "title": "JMeter-Anonymous_at_Pickup_Dropoff",
+      "delivery_deadline": "2020-07-01T22:38:32Z",
+      "price": 34.0,
+      "delivery_fee": 9.0,
+      "status": "published",
+      "total_distance": 29.204437,
+      "created_at": "2015-11-12T16:48:50Z",
+      "updated_at": "2016-06-15T22:03:00Z",
+      "category": "shipment",
+      "pickup_location": {
+        "latitude": 33.735652,
+        "longitude": -84.357495,
+        "friendly_name": "Ormewood Park",
+        "city": "Atlanta",
+        "state": "GA",
+        "zip": "30316"
+      },
+      "bearing": 32,
+      "delivery_location": {
+        "latitude": 34.014933,
+        "longitude": -84.183536,
+        "friendly_name": "State Bridge Rd",
+        "city": "Johns Creek",
+        "state": "GA",
+        "zip": "30097"
+      },
+      "route": "}}{lEha{aOGcJCAuDA?cCkEAEACCAEAKaI?wBDDbA@`A?nHCvEcDG}KHqDDsA?W?XlCTnCDx@H`HLbG@`GD~B@|@DtLDhBBFLV@~B@xOClK@p]Db\\IjDSjGm@|Fg@nBg@nAaAjBo@p@aAd@{@FeAOy@YYEIKeEmGwAmCsBsFOQMCo@uBaAaCcEkG}GuIyCqCwAeAkCkAwCs@gBWeFM}EFwGd@uCf@mBj@{At@aBhAgBhBuErGUZmAbBgFlGoCfCyB`CcBfCa@v@}DdJiBjDwAfBiAdAgC|AeBh@mBXuCD{CEuEK{GBk@DsSbCgHXcPBi_@IuOAmALoFJaCXgCv@wBpA}GtE_C~@iCf@q@DcDA{B_@y@UyAq@gCgBkB}BkCgF}FkNeBuDoC}EqLiQcL_PeHuKuB{DsBwE_BkEqD{M}AsGyCmLmA_EiA}CyB{EgEeH{CsD_DeD}AiAaHuE{OaJu@g@{AgAaBiB_BwC}@}By@aEeAqNq@iH_@wBk@aDaAsDqAwDoBgFkCyG}CkG}AiC}FkImAwBcA_CmJsXkFmOwGeSsFwPyDmKmM_[gEoKa@oAgAkFq@iGaB{Xg@aK_@{Da@oBiAwD}AiDkBoCuBqBuCmB{\\ePaFuCgAeAoQgUkPeT{BgCiCyB{BsAiM{F{GaD{DsCqBwBgIsJyTuW{BsC{BeDaKsQuHuMaCyC_BuAkMqJaPoLuL}Iqa@uZKe@qC}C}DmFoC_FeBwDmCcHq@iA_A_AqAg@wBSuBGaA@}A^o@^m@l@}@xAuFrJwIdMeIfLi@`A_LnP[p@CPCP_ChD_ArA}@xAeBdDkB~D{KdVkAtBqBhCgUxUyBzBIAO@w@n@}ExD{Az@}BnA[Do@GuFeBq@A_Di@{ScD}E}@kDiAuCyAoEgDmCwC_CoDwB{EoCgIkVgu@iYg|@kBgFkDqIgIuP{V{g@cN}XqFcLu@uAuAaDwBmHq@gBw@aB[[_AiAw@o@mCqAoA[qAMmFYmEw@sHqB{A_@oBo@sM{F{DiBgDsB{EeEsYe[kAmAsEgEaEwCaDiBcAi@_FyBsL_EgS}GiIqCuFwB{G{CeEuBgV{Nev@yd@_MqIsMiIsAiAs@_A}IuPuCqFgEgHmBsD}BwDmCmCoH}EwHsE}UcJmDeAyAWuPqBgScEcGyAeDq@}@Y]o@?Y?QzC{E`A}Ah@{@vBeDlCoDdC_C[]e@sAy@eBwA}C`@g@",
+      "package": {
+        "id": 3340,
+        "size_kind": "super-long",
+        "images": [
+          {
+            "id": 6032,
+            "type": "publish",
+            "location": "https://roadie-app-qa.s3.amazonaws.com/package_image/image/6032/cc525eb6-0394-4882-9d5b-8fcb02e9cf41.png",
+            "index": null
+          }
+        ]
+      },
+      "manager": {
+        "id": 1758,
+        "preferred_name": "S-seven-ten",
+        "avatar_url": "https://roadie-app-qa.s3.amazonaws.com/profile/avatar/1758/d0336c2d-838e-4f48-aead-e97bfcb40098.jpg",
+        "social_id": null,
+        "social_type": null
+      },
+      "pricing": {
+        "amount_paid_to_roadie": 34.0,
+        "delivery_fee": 9.0,
+        "safety_fee": 1.0,
+        "insurance_fee": 10.0,
+        "total_price": 54.0
+      }
+    },
+    {
+      "id": 10833,
+      "title": "JMeter-Anonymous_at_Pickup_Dropoff",
+      "delivery_deadline": "2020-07-01T22:38:32Z",
+      "price": 28.0,
+      "delivery_fee": 7.0,
+      "status": "published",
+      "total_distance": 4.999551066,
+      "created_at": "2016-10-10T22:25:03Z",
+      "updated_at": "2016-10-10T22:25:03Z",
+      "category": "shipment",
+      "pickup_location": {
+        "latitude": 33.9885826,
+        "longitude": -84.1949502,
+        "friendly_name": "Great Wall SuperMarket",
+        "city": "Duluth",
+        "state": "GA",
+        "zip": "30096"
+      },
+      "bearing": 23,
+      "delivery_location": {
+        "latitude": 34.014933,
+        "longitude": -84.183536,
+        "friendly_name": "State Bridge Rd",
+        "city": "Johns Creek",
+        "state": "GA",
+        "zip": "30097"
+      },
+      "route": "uhmnE~e{`Od@h@n@Pj@@TEXK|@]j@?l@Rf@d@j@bANTRPVP^Hr@@f@Il@]RUPa@Ne@@W@k@COHKDg@N_@\\_@pB}@t@pAJVTn@N|@n@~Ej@jCv@lE^zC?dACr@Eh@e@lCa@nBYv@c@`AeA`By@fAcDlC_@h@Wz@YhBCb@Bd@FZbCfGhAzCh@fB^dBPbBZfEP~Ad@~Aj@lBXfA`@hBf@~A|@`C@^EZG^_@VoA?sAEuDUaD]_ASm@W_DmBeFsC_@EqPaKgAo@sB{AwCwBkBmAsJaG_BgAk@a@g@g@s@_Am@cAoHqNuCqFgEgH_AcBm@oAsAaCi@u@i@m@cB_BqCkB}CqBcEkCsBgAwF{BeNgFmDeAyAWuPqBcHuAcJmBwCu@kBc@eDq@s@OIIUYGU?Y?QzC{E`A}Ah@{@vBeDz@qApA}Ap@q@x@y@XS[]e@sAy@eBwA}C`@g@",
+      "package": {
+        "id": 10778,
+        "size_kind": "super-long",
+        "images": [
+          {
+            "id": 12414,
+            "type": "publish",
+            "location": "https://roadie-app-qa.s3.amazonaws.com/gigs/10833/images/c584d7eb-a35e-4042-a9c5-7e07eb62e366.png",
+            "index": null
+          }
+        ]
+      },
+      "manager": {
+        "id": 1758,
+        "preferred_name": "S-seven-ten",
+        "avatar_url": "https://roadie-app-qa.s3.amazonaws.com/profile/avatar/1758/d0336c2d-838e-4f48-aead-e97bfcb40098.jpg",
+        "social_id": null,
+        "social_type": null
+      },
+      "pricing": {
+        "amount_paid_to_roadie": 28.0,
+        "delivery_fee": 7.0,
+        "safety_fee": 1.0,
+        "insurance_fee": 10.0,
+        "total_price": 46.0
+      }
+    },
+    {
+      "id": 10838,
+      "title": "JMeter-Anonymous_at_Pickup_Dropoff",
+      "delivery_deadline": "2020-07-01T22:38:32Z",
+      "price": 28.0,
+      "delivery_fee": 7.0,
+      "status": "published",
+      "total_distance": 4.999551066,
+      "created_at": "2016-10-10T22:35:42Z",
+      "updated_at": "2016-10-10T22:35:43Z",
+      "category": "shipment",
+      "pickup_location": {
+        "latitude": 33.9885826,
+        "longitude": -84.1949502,
+        "friendly_name": "Great Wall SuperMarket",
+        "city": "Duluth",
+        "state": "GA",
+        "zip": "30096"
+      },
+      "bearing": 23,
+      "delivery_location": {
+        "latitude": 34.014933,
+        "longitude": -84.183536,
+        "friendly_name": "State Bridge Rd",
+        "city": "Johns Creek",
+        "state": "GA",
+        "zip": "30097"
+      },
+      "route": "uhmnE~e{`Od@h@n@Pj@@TEXK|@]j@?l@Rf@d@j@bANTRPVP^Hr@@f@Il@]RUPa@Ne@@W@k@COHKDg@N_@\\_@pB}@t@pAJVTn@N|@n@~Ej@jCv@lE^zC?dACr@Eh@e@lCa@nBYv@c@`AeA`By@fAcDlC_@h@Wz@YhBCb@Bd@FZbCfGhAzCh@fB^dBPbBZfEP~Ad@~Aj@lBXfA`@hBf@~A|@`C@^EZG^_@VoA?sAEuDUaD]_ASm@W_DmBeFsC_@EqPaKgAo@sB{AwCwBkBmAsJaG_BgAk@a@g@g@s@_Am@cAoHqNuCqFgEgH_AcBm@oAsAaCi@u@i@m@cB_BqCkB}CqBcEkCsBgAwF{BeNgFmDeAyAWuPqBcHuAcJmBwCu@kBc@eDq@s@OIIUYGU?Y?QzC{E`A}Ah@{@vBeDz@qApA}Ap@q@x@y@XS[]e@sAy@eBwA}C`@g@",
+      "package": {
+        "id": 10783,
+        "size_kind": "super-long",
+        "images": [
+          {
+            "id": 12419,
+            "type": "publish",
+            "location": "https://roadie-app-qa.s3.amazonaws.com/gigs/10838/images/f726cf8b-3a76-47a2-8444-24f4040afec1.png",
+            "index": null
+          }
+        ]
+      },
+      "manager": {
+        "id": 1758,
+        "preferred_name": "S-seven-ten",
+        "avatar_url": "https://roadie-app-qa.s3.amazonaws.com/profile/avatar/1758/d0336c2d-838e-4f48-aead-e97bfcb40098.jpg",
+        "social_id": null,
+        "social_type": null
+      },
+      "pricing": {
+        "amount_paid_to_roadie": 28.0,
+        "delivery_fee": 7.0,
+        "safety_fee": 1.0,
+        "insurance_fee": 10.0,
+        "total_price": 46.0
+      }
+    },
+    {
+      "id": 10843,
+      "title": "JMeter-Anonymous_at_Pickup_Dropoff",
+      "delivery_deadline": "2020-07-01T22:38:32Z",
+      "price": 28.0,
+      "delivery_fee": 7.0,
+      "status": "published",
+      "total_distance": 4.999551066,
+      "created_at": "2016-10-10T22:46:18Z",
+      "updated_at": "2016-10-10T22:46:18Z",
+      "category": "shipment",
+      "pickup_location": {
+        "latitude": 33.9885826,
+        "longitude": -84.1949502,
+        "friendly_name": "Great Wall SuperMarket",
+        "city": "Duluth",
+        "state": "GA",
+        "zip": "30096"
+      },
+      "bearing": 23,
+      "delivery_location": {
+        "latitude": 34.014933,
+        "longitude": -84.183536,
+        "friendly_name": "State Bridge Rd",
+        "city": "Johns Creek",
+        "state": "GA",
+        "zip": "30097"
+      },
+      "route": "uhmnE~e{`Od@h@n@Pj@@TEXK|@]j@?l@Rf@d@j@bANTRPVP^Hr@@f@Il@]RUPa@Ne@@W@k@COHKDg@N_@\\_@pB}@t@pAJVTn@N|@n@~Ej@jCv@lE^zC?dACr@Eh@e@lCa@nBYv@c@`AeA`By@fAcDlC_@h@Wz@YhBCb@Bd@FZbCfGhAzCh@fB^dBPbBZfEP~Ad@~Aj@lBXfA`@hBf@~A|@`C@^EZG^_@VoA?sAEuDUaD]_ASm@W_DmBeFsC_@EqPaKgAo@sB{AwCwBkBmAsJaG_BgAk@a@g@g@s@_Am@cAoHqNuCqFgEgH_AcBm@oAsAaCi@u@i@m@cB_BqCkB}CqBcEkCsBgAwF{BeNgFmDeAyAWuPqBcHuAcJmBwCu@kBc@eDq@s@OIIUYGU?Y?QzC{E`A}Ah@{@vBeDz@qApA}Ap@q@x@y@XS[]e@sAy@eBwA}C`@g@",
+      "package": {
+        "id": 10788,
+        "size_kind": "super-long",
+        "images": [
+          {
+            "id": 12424,
+            "type": "publish",
+            "location": "https://roadie-app-qa.s3.amazonaws.com/gigs/10843/images/ea4e270d-308b-4ea0-82ff-bc6237dff9a6.png",
+            "index": null
+          }
+        ]
+      },
+      "manager": {
+        "id": 1758,
+        "preferred_name": "S-seven-ten",
+        "avatar_url": "https://roadie-app-qa.s3.amazonaws.com/profile/avatar/1758/d0336c2d-838e-4f48-aead-e97bfcb40098.jpg",
+        "social_id": null,
+        "social_type": null
+      },
+      "pricing": {
+        "amount_paid_to_roadie": 28.0,
+        "delivery_fee": 7.0,
+        "safety_fee": 1.0,
+        "insurance_fee": 10.0,
+        "total_price": 46.0
+      }
+    },
+    {
+      "id": 10858,
+      "title": "JMeter-Anonymous_at_Pickup_Dropoff",
+      "delivery_deadline": "2020-07-01T22:38:32Z",
+      "price": 28.0,
+      "delivery_fee": 7.0,
+      "status": "published",
+      "total_distance": 4.999551066,
+      "created_at": "2016-10-11T16:55:51Z",
+      "updated_at": "2016-10-11T16:55:53Z",
+      "category": "shipment",
+      "pickup_location": {
+        "latitude": 33.9885826,
+        "longitude": -84.1949502,
+        "friendly_name": "Great Wall SuperMarket",
+        "city": "Duluth",
+        "state": "GA",
+        "zip": "30096"
+      },
+      "bearing": 23,
+      "delivery_location": {
+        "latitude": 34.014933,
+        "longitude": -84.183536,
+        "friendly_name": "State Bridge Rd",
+        "city": "Johns Creek",
+        "state": "GA",
+        "zip": "30097"
+      },
+      "route": "uhmnE~e{`Od@h@n@Pj@@TEXK|@]j@?l@Rf@d@j@bANTRPVP^Hr@@f@Il@]RUPa@Ne@@W@k@COHKDg@N_@\\_@pB}@t@pAJVTn@N|@n@~Ej@jCv@lE^zC?dACr@Eh@e@lCa@nBYv@c@`AeA`By@fAcDlC_@h@Wz@YhBCb@Bd@FZbCfGhAzCh@fB^dBPbBZfEP~Ad@~Aj@lBXfA`@hBf@~A|@`C@^EZG^_@VoA?sAEuDUaD]_ASm@W_DmBeFsC_@EqPaKgAo@sB{AwCwBkBmAsJaG_BgAk@a@g@g@s@_Am@cAoHqNuCqFgEgH_AcBm@oAsAaCi@u@i@m@cB_BqCkB}CqBcEkCsBgAwF{BeNgFmDeAyAWuPqBcHuAcJmBwCu@kBc@eDq@s@OIIUYGU?Y?QzC{E`A}Ah@{@vBeDz@qApA}Ap@q@x@y@XS[]e@sAy@eBwA}C`@g@",
+      "package": {
+        "id": 10803,
+        "size_kind": "super-long",
+        "images": [
+          {
+            "id": 12451,
+            "type": "publish",
+            "location": "https://roadie-app-qa.s3.amazonaws.com/gigs/10858/images/aa0a66d9-17c2-4a60-8310-adb79fdefa46.png",
+            "index": null
+          }
+        ]
+      },
+      "manager": {
+        "id": 1758,
+        "preferred_name": "S-seven-ten",
+        "avatar_url": "https://roadie-app-qa.s3.amazonaws.com/profile/avatar/1758/d0336c2d-838e-4f48-aead-e97bfcb40098.jpg",
+        "social_id": null,
+        "social_type": null
+      },
+      "pricing": {
+        "amount_paid_to_roadie": 28.0,
+        "delivery_fee": 7.0,
+        "safety_fee": 1.0,
+        "insurance_fee": 10.0,
+        "total_price": 46.0
+      }
+    },
+    {
+      "id": 14044,
+      "title": "JMeter-Anonymous_at_Pickup_Dropoff",
+      "delivery_deadline": "2020-07-01T22:38:32Z",
+      "price": 34.0,
+      "delivery_fee": 9.0,
+      "status": "published",
+      "total_distance": 29.389605558,
+      "created_at": "2016-12-09T18:53:08Z",
+      "updated_at": "2016-12-09T18:53:08Z",
+      "category": "shipment",
+      "pickup_location": {
+        "latitude": 33.735652,
+        "longitude": -84.357495,
+        "friendly_name": "Ormewood Park",
+        "city": "Atlanta",
+        "state": "GA",
+        "zip": "30316"
+      },
+      "bearing": 32,
+      "delivery_location": {
+        "latitude": 34.014933,
+        "longitude": -84.183536,
+        "friendly_name": "State Bridge Rd",
+        "city": "Johns Creek",
+        "state": "GA",
+        "zip": "30097"
+      },
+      "route": "}}{lEha{aOGcJCAuDA?cCkEAEACCAEAKaI?wBDDbA@`A?nHCvEcDGuMLqC@sA?h@rFLdCHzGJhGH`JFzPDb@NZBfQCfO@f_@Dz\\i@xKm@nEyA|D}@vAg@d@gA`@}@@eAUo@U[MmBoC{BsDiAcCaBoEYMiAkDqBwDgEwF_DcEuCcDmA_AcBeAoCeAkCk@cBOiGIgEJyGh@eDr@iBr@aAl@gBrA}AdB}DvFW^yBzCuFjGwApAgCrCqApBs@~AkFfLgAhB}@bAiB~AuBhAmBd@iBTcE@kCG_HEqDB_Gp@sIfAoDVwFP{P@g`@IwIA_B?SHM?gCB{ABuAJqCb@iBr@cEnC{E|CoC~@oBX}@FeDI{Be@aDyA}BoBqBuCcAqBmBuEmF_M{BiEoBeDcM{Q{JkN{GiKoCoF{AoD}AqEqEcQm@cCiDwMmA{DkA}CoCsFaBmCmCsDwCgDyAsAcCmBqLmH}IcFuA_AmAaAaBsBaBcDy@aCo@cEqAaQs@wFUyAw@yDkAcEmAyCwD{J_CmF}BaEqHsKsCgGwSqm@mFkPuGyRwByFeRmd@uAeEgAuFy@mJuAeVg@wJm@qEs@wCy@}ByAsCg@w@iBwB}BiBaE{Bs[oO_EgCaF_GmQsUaMaPu@u@wC_CaCsA{PwHgE}BsC}BeCoCqH{ImAuAiL_N}E_GuAiBuDaG}KyRmC_FqCcE{DsD_^sW{k@yb@wAiAEYOWoEiFiCqDyDkHiAwCwBqFy@kA{@q@qAa@oBOsBG}AHeA\\g@Zu@v@mCzEcFfIaJlMeG`JmDbFwG~JOd@EXiD~EsBfDoHzOiHtOuA|B{BlCaXrX_@@oBbBsDnCuBjAsAt@]BaAQcF{AWDaAS}JaBgMmBcEy@_DiAsDqBaEeDgC{CwBmDeCeGwDkLeWew@{Wox@qBmFoEcKiH{NoW_i@wMeXmDmH}A}Cw@uByBoHwAaDy@aA_CmBkAi@oA_@aAQeCMiAEmCYaDu@uHmBuA_@kDmAmQiIeEoCmAaAqDmDuR}ScDmDoDoDqC{B_DyB_DgBcDaBiCcAeLyDgS{GqJeDcGaCmLyFcVyN_x@_f@kGsE_NoI_BgAsAiAaBcCoJyQ}DcH_DqFaCqEsAcBcB_BqCkBaJ}FsBgAuB{@eE_BaLgEmDeAuJoAyGy@uFgAcJmBeEcAqGuA}@YUYGo@?QzC{E`A}A`A{AzCwEbCoCrAmA[]e@sAy@eBwA}C`@g@",
+      "package": {
+        "id": 13989,
+        "size_kind": "super-long",
+        "images": [
+          {
+            "id": 13319,
+            "type": "publish",
+            "location": "https://roadie-app-qa.s3.amazonaws.com/gigs/14044/images/56ac2fe4-b4b3-4fe1-a60d-89d38a833d86.png",
+            "index": null
+          }
+        ]
+      },
+      "manager": {
+        "id": 14581,
+        "preferred_name": "S-jmeter S.",
+        "avatar_url": "https://s3.amazonaws.com/roadie-app-test/default/avatars/avatar1.png",
+        "social_id": null,
+        "social_type": null
+      },
+      "pricing": {
+        "amount_paid_to_roadie": 34.0,
+        "delivery_fee": 9.0,
+        "safety_fee": 1.0,
+        "insurance_fee": 10.0,
+        "total_price": 54.0
+      }
+    },
+    {
+      "id": 5728,
+      "title": "Xueling Thursday 2 R",
+      "delivery_deadline": "2020-08-13T23:00:00Z",
+      "price": 28.0,
+      "delivery_fee": 8.0,
+      "status": "published",
+      "total_distance": 29.429373302,
+      "created_at": "2016-03-21T15:54:18Z",
+      "updated_at": "2016-06-15T22:03:18Z",
+      "category": "pet",
+      "pickup_location": {
+        "latitude": 33.735652,
+        "longitude": -84.357495,
+        "friendly_name": "Ormewood Park",
+        "city": "Atlanta",
+        "state": "GA",
+        "zip": "30316"
+      },
+      "bearing": 32,
+      "delivery_location": {
+        "latitude": 34.014933,
+        "longitude": -84.183536,
+        "friendly_name": "State Bridge Rd",
+        "city": "Johns Creek",
+        "state": "GA",
+        "zip": "30097"
+      },
+      "route": "}}{lEha{aO?`AeB?}AA?mA@yI?cCkEAA?A?ECAE?AAKaG?wDDFhB?~DCtF?lBiBCcCCuHFqDFiC?p@nHLfHFlBFbPD|@DlJDdER`@@`]?bZDjW?`NQlDWjF[hCy@bDmAlCs@z@w@f@aAP_AGcA]SG[MqDmFuAgCsCiHSEiAkDqBwD}A{BiG_IuCcD_@W{AiAcCmA{Bo@aCa@oCMwH@uF\\uDh@qA\\iBr@mBlAaBxAyDlFoAdBeGzH_GzFeCbDe@z@oE`KwApCgBdCOL}BhBs@b@gBl@kB\\mBHuEEwII}DDoR|BuG^cRDk_@IuLA_B?SHM?sDDwAF_BPgCf@kCtA{GvEwBbA{Cr@eAHcC@yBUeCu@{CkBuB}B_CiEcE{JwCyG{BiEoBeDiHmKsHwKmAcBoFuHsCoEsBuDaCiFu@mBgCaIwDqOoCqKgA}DsAwD{BaFwCcFmCsDwCgDuBiB_H_FeQ}Jy@g@qA}@wAwAoB_DcAaCu@eDe@iE[qEe@kGs@wFk@iDmBmHwBqFmCcH_CmF}BaE}CiE{DiGiAcCyCkImMm_@mFcPiEwMcG{PyDgJ}LiZ}@gCgAsEq@_FgB}Yg@_K_@sEoAcGoAiDkB_DiBwB}BiBaE{BaEoBqU_LmBiAeBsAmEiFiHiJeVk[{BsBwCqBoVaLmCiBiCaCqJ_L_AgAoDeEoKkM}D{EuDaGcF}IgI{NqCcEeCaC{HcGqTcPwIsGkb@c[wAiAEYOWwAyAuEeGgBwCuC}F}DwJaAiAkAk@wB[cEGuAVw@^g@b@u@dAqFvJsHzKqCtDeG`JyJxNuA|BKj@_FhHiBdDwBrEiKbUuApCiBfCqSdTmEpEQAUHoFnEiAp@yDpBc@AuFaB[IWDuCi@sSaDwEw@{DkAcCgAaEoCgEoEwAsB}BmEqB{FeUor@uLa_@kNkb@wDkKoEcKyBkEaHmNyJkSqQy^uLmVw@uBuA{E{BuF_CgCeCqAqCq@oESmCYwAWyF}AyGeByLoFuEsBqBgAmEeDeIiI{PaRqByBmEaEcE{C{CiB_HeDo\\_LcS_HyIyDyC{AmFyCyKyG_PsJqh@m[aDqByHqFyMiIoA_AeAkAo@_A}GsM{BiEkFaJ_CmEiBaD_CkCaBsAeFeD{FqDmGmCsLqEeE{AcBc@_PmBqJeBmJqBeN}Cc@m@Cw@zIiNdCoDvC}CXS[]gAkC_BoDO[`@g@",
+      "package": {
+        "id": 5674,
+        "size_kind": "elephant",
+        "images": [
+          {
+            "id": 8580,
+            "type": "publish",
+            "location": "https://roadie-app-qa.s3.amazonaws.com/package_image/image/8580/dfedff2e-8ecf-4d93-9ce8-7473eea31719.jpg",
+            "index": null
+          }
+        ]
+      },
+      "manager": {
+        "id": 4743,
+        "preferred_name": "B-two-ten S.",
+        "avatar_url": "https://roadie-app-qa.s3.amazonaws.com/profile/avatar/4743/4f76becd-aaeb-4e52-973b-1b6e0621fd25.png",
+        "social_id": null,
+        "social_type": null
+      },
+      "pricing": {
+        "amount_paid_to_roadie": 28.0,
+        "delivery_fee": 8.0,
+        "safety_fee": 1.0,
+        "insurance_fee": 0.0,
+        "total_price": 37.0
+      }
+    },
+    {
+      "id": 12145,
+      "title": "Reposted Gig 11-8 A",
+      "delivery_deadline": "2020-08-13T23:00:00Z",
+      "price": 28.0,
+      "delivery_fee": 8.0,
+      "status": "published",
+      "total_distance": 29.389605558,
+      "created_at": "2016-11-08T23:23:13Z",
+      "updated_at": "2016-11-08T23:23:13Z",
+      "category": "pet",
+      "pickup_location": {
+        "latitude": 33.735652,
+        "longitude": -84.357495,
+        "friendly_name": "Ormewood Park",
+        "city": "Atlanta",
+        "state": "GA",
+        "zip": "30316"
+      },
+      "bearing": 32,
+      "delivery_location": {
+        "latitude": 34.014933,
+        "longitude": -84.183536,
+        "friendly_name": "State Bridge Rd",
+        "city": "Johns Creek",
+        "state": "GA",
+        "zip": "30097"
+      },
+      "route": "}}{lEha{aOGcJCAuDA?cCkEAEACCAEAKaI?wBDDbA@`A?nHCvEcDGuMLqC@sA?h@rFLdCHzGJhGH`JFzPDb@NZBfQCfO@f_@Dz\\i@xKm@nEyA|D}@vAg@d@gA`@}@@eAUo@U[MmBoC{BsDiAcCaBoEYMiAkDqBwDgEwF_DcEuCcDmA_AcBeAoCeAkCk@cBOiGIgEJyGh@eDr@iBr@aAl@gBrA}AdB}DvFW^yBzCuFjGwApAgCrCqApBs@~AkFfLgAhB}@bAiB~AuBhAmBd@iBTcE@kCG_HEqDB_Gp@sIfAoDVwFP{P@g`@IwIA_B?SHM?gCB{ABuAJqCb@iBr@cEnC{E|CoC~@oBX}@FeDI{Be@aDyA}BoBqBuCcAqBmBuEmF_M{BiEoBeDcM{Q{JkN{GiKoCoF{AoD}AqEqEcQm@cCiDwMmA{DkA}CoCsFaBmCmCsDwCgDyAsAcCmBqLmH}IcFuA_AmAaAaBsBaBcDy@aCo@cEqAaQs@wFUyAw@yDkAcEmAyCwD{J_CmF}BaEqHsKsCgGwSqm@mFkPuGyRwByFeRmd@uAeEgAuFy@mJuAeVg@wJm@qEs@wCy@}ByAsCg@w@iBwB}BiBaE{Bs[oO_EgCaF_GmQsUaMaPu@u@wC_CaCsA{PwHgE}BsC}BeCoCqH{ImAuAiL_N}E_GuAiBuDaG}KyRmC_FqCcE{DsD_^sW{k@yb@wAiAEYOWoEiFiCqDyDkHiAwCwBqFy@kA{@q@qAa@oBOsBG}AHeA\\g@Zu@v@mCzEcFfIaJlMeG`JmDbFwG~JOd@EXiD~EsBfDoHzOiHtOuA|B{BlCaXrX_@@oBbBsDnCuBjAsAt@]BaAQcF{AWDaAS}JaBgMmBcEy@_DiAsDqBaEeDgC{CwBmDeCeGwDkLeWew@{Wox@qBmFoEcKiH{NoW_i@wMeXmDmH}A}Cw@uByBoHwAaDy@aA_CmBkAi@oA_@aAQeCMiAEmCYaDu@uHmBuA_@kDmAmQiIeEoCmAaAqDmDuR}ScDmDoDoDqC{B_DyB_DgBcDaBiCcAeLyDgS{GqJeDcGaCmLyFcVyN_x@_f@kGsE_NoI_BgAsAiAaBcCoJyQ}DcH_DqFaCqEsAcBcB_BqCkBaJ}FsBgAuB{@eE_BaLgEmDeAuJoAyGy@uFgAcJmBeEcAqGuA}@YUYGo@?QzC{E`A}A`A{AzCwEbCoCrAmA[]e@sAy@eBwA}C`@g@",
+      "package": {
+        "id": 12090,
+        "size_kind": "large",
+        "images": []
+      },
+      "manager": {
+        "id": 3752,
+        "preferred_name": "S-twl-two L.",
+        "avatar_url": "https://roadie-app-qa.s3.amazonaws.com/profile/avatar/3752/0a7bf47f-0e8c-404c-8ae3-2832de92d4da.JPG",
+        "social_id": null,
+        "social_type": null
+      },
+      "pricing": {
+        "amount_paid_to_roadie": 28.0,
+        "delivery_fee": 8.0,
+        "safety_fee": 1.0,
+        "insurance_fee": 5.0,
+        "total_price": 42.0
+      }
+    },
+    {
+      "id": 5146,
+      "title": "Gig 8-16 Aa",
+      "delivery_deadline": "2020-09-01T18:20:00Z",
+      "price": 40.0,
+      "delivery_fee": 10.0,
+      "status": "published",
+      "total_distance": 3753.883029961,
+      "created_at": "2016-02-23T16:21:58Z",
+      "updated_at": "2016-08-16T22:29:06Z",
+      "category": "shipment",
+      "pickup_location": {
+        "latitude": 58.2996778,
+        "longitude": -134.4266526,
+        "friendly_name": "Harris Harbor Way",
+        "city": "Juneau",
+        "state": "AK",
+        "zip": "99801"
+      },
+      "bearing": 116,
+      "delivery_location": {
+        "latitude": 34.1211362,
+        "longitude": -84.206641,
+        "friendly_name": "Shiloh Rd",
+        "city": "Alpharetta",
+        "state": "GA",
+        "zip": "30005"
+      },
+      "route": "stybJhdnsXgzMbqe@wo@vpFxK`jCjmFv\\ksbBxt`BoieAnl_@ckLtoSgReyMqfa@q~Ma}AeeAyyEemGyzLa_Junw@ovnAquYyd[upPe|NceHnwM_cKv~@kxGsi^oyOujaBgk\\q{iB~aKgsm@bgq@su}Adso@{j{CtjEgdzA{hWuzr@y}L_xhAeD}njAifUqonAn_\\cckEmv@ixu@v`Wand@a|Kor|Ctr[sou@pgNz|JxtEk~Zt~Nk|b@t`Fkf}@vxUax|ArtUyo{@z}OgqPf|RkO`bi@}va@llh@_fIa}M}fy@jhHgolAhe]aicAwrBqslCitRa{bAodXi|sApxNspaAhcEm`^jdRt}JrzNmiJrfu@ngFduM_vHhqR~z@xd[ztLtpSfsOdp_@h_[ton@ayEtmYsqKjhVoy]ba\\wqN`tIg`_@d{Gi{x@lx|@qyyAvpPqbs@dz^iup@`tm@mqzA~hd@iyO~}u@s`_Bn_m@ia_@`m^wakB}Umq}Aj`P_rWHkay@obAelk@pkWiheBdjSahzApvs@srRbzj@qfc@dab@c{dAvgPofoB~|s@e|hDpcn@ucbDvwJihYrpScz@mEe}gAlEgtkB`fDqgnEpla@_~gC~pCebnClqNodjDlh^yubAxxVekrCnli@e}vArnZaswAvhtA{rnFf~wA{rf@`uyAsv_BnjrAawsAnlb@oqsBv_]g|}@zss@ob}AvhiAshuC|ol@gkdAnej@gvDl{k@}I|qFeqPx|FiwVvbYwtl@dmKkb\\bPco]lnOsa[vgj@msQddg@mdoAb`Us{_@fbbA{i_Eftv@_z|C`jb@mcMVuqfAxrHqwQpfbBsiaAcrAqwgCpoLobtGp}bBc_cBjl~@kwhAnka@}qbBlhcAaqtEh_aAkz|B`cN}u~@feVejh@nuEmk~Dvxa@edvBdqeAe{jAhpn@ervA|`\\u_S|oPiyr@||~@e{qAbwL_zn@hpe@ywM|~v@svd@t{l@moj@tvbAqpBbvg@d`Ezp_Ao_@zw}AzcHxh}BiyCxui@{rAxfSajGnzQ_th@`}X{jcAdaNqwThhk@}rDh~|@thFl~y@js\\|lm@r_Wddl@rpl@zoQ`eUj`i@d`Djeo@a~Fb_qAtaDpj`@paDvln@{yQj_|@glb@juU{jg@_eLm~x@v_y@on|BpepAk|vBj|x@y_r@xchBumkBvtfA_naAbbb@w_bAuoKo}TvbVybb@vkVcgZvh^i|CrceAk~^lt_@gmOpba@{em@|eBcpM_cP{xNs`VejX",
+      "package": {
+        "id": 5092,
+        "size_kind": "small",
+        "images": [
+          {
+            "id": 10966,
+            "type": "publish",
+            "location": "https://roadie-app-qa.s3.amazonaws.com/gigs/5146/images/03a9fafa-86eb-4d89-b174-a9d53fb3f90b.jpg",
+            "index": null
+          }
+        ]
+      },
+      "manager": {
+        "id": 1954,
+        "preferred_name": "S-eight-nine L.",
+        "avatar_url": "https://roadie-app-qa.s3.amazonaws.com/profile/avatar/1954/996a3e3b-5a6f-4aac-aa43-0ab311854efb.jpg",
+        "social_id": null,
+        "social_type": null
+      },
+      "pricing": {
+        "amount_paid_to_roadie": 40.0,
+        "delivery_fee": 10.0,
+        "safety_fee": 1.0,
+        "insurance_fee": 45.0,
+        "total_price": 96.0,
+        "line_items": [
+          {
+            "category": "incidentals",
+            "amount": 10.0,
+            "description": "Pp"
+          }
+        ]
+      }
+    },
+    {
+      "id": 5941,
+      "title": "Curl Gig 3-31 A",
+      "delivery_deadline": "2020-09-01T18:20:00Z",
+      "price": 305.0,
+      "delivery_fee": 77.0,
+      "status": "published",
+      "total_distance": 1725.638608537,
+      "created_at": "2016-03-31T19:56:14Z",
+      "updated_at": "2016-06-15T22:03:20Z",
+      "category": "shipment",
+      "pickup_location": {
+        "latitude": 58.2996778,
+        "longitude": -134.4266526,
+        "friendly_name": "Harris Harbor Way",
+        "city": "Juneau",
+        "state": "AK",
+        "zip": "99801"
+      },
+      "bearing": 132,
+      "delivery_location": {
+        "latitude": 47.4502499,
+        "longitude": -122.3110052,
+        "friendly_name": "South 170th Street",
+        "city": "Seattle",
+        "state": "WA",
+        "zip": "98158"
+      },
+      "route": "stybJhdnsXgzMbqe@wo@vpFxK`jCjmFv\\_pVzfa@kbkA|l~@_fi@noJob[~{SckLtoSgReyM}ea@s~Mu}AceAyyEemGyzLa_JugRo_SyrKmbW}mIcoXgcMmbIgdKkvDipMmmUupPe|NceHnwMq`ExdKoeEymI_zGw}^{zCwxUak@epRkbG}rFmq@__[{a@wbSokIs`m@qwQmp{@hf@cnXbhKcaT|je@g~y@~sIyyb@b_p@_q|ClaEwi_B}_H_g]aoNkdN}`L{fq@wZwnWkF_`jAk_UaqpAfrVad_Cp`Hein@poF_qFpxN|lHblKfrBv|Ob|BlaMpXnnJlwQrhR|f@pw`@ayQf`Ofmr@|pGvp{@ziIlhJ~qCbtI|{EwiEx|DeoP|uEruEtwNjeQxgFxzJtfMrqY|lNj}G`wQqsCj_JybHfcMsa@bgZscEzz[ouWfef@zy@tsRhrg@nsUavLv_NemF|xOhmJzsQxdL|{L~vQbuQrmIfj]voEluKy{HngSfnHzwSieCvrNcvQzuEelVt{PmwO`dIe{KfNgnQprYm_YtjIotQzkSgca@|qQgpRj{AbnI|zKt`@jg\\qzJ`}D|fChkEgfG|jFmcZbiU_mQveb@_mh@`oPwrZrfFsse@zhk@sbhAnek@qfRpeG~iHt_BusEbSkr]crM}aRcrKilTccCkwT|~Lqx]dz\\cdIxdJCjbNstM~eKkdLxzI{sKfuLssMr|HwxUzd[{_c@ndLuSx|FsqN_iW_sn@xvCou\\vuKkjRdcFi}d@|xMehT|gQanVveEykh@tsQea`AvpF_lqBlaEm~{@hsAcmq@z{H}lMhvL_uuA`eHqraA|pE}cj@onH_u^qdDafFn_D_lGfgLeiLxzPvf@xvJdF`yZ{rCrwPgaL|aRkwElcM}rPngY{kQ|sLl|XvoIuGr\\ezGjiKwl@nlf@|rCzjh@_uDxlVgw[fzXkr^hlLqtEj}Fl|HzmBugc@jmXciWhjZwch@t~EcyZ|uOmi[dtNs|Dx}PpkKvna@zLxuTvyPxqL`xNroIakE~sHr}NpkUgsOnaRcwRh~PwsNn~[teDfu\\yqGjoYl`Q|mMdzAn{CbiLv\\vrOjhMd~Ab|f@{~NbuNobHd}McNxh^kmFdbNoPftFhtD|{]nsApwCb_YdlOp}Qb`Ox_Ll|Gx~l@`pTtlt@tqLvqEfyJpqPbgOtJfpFvtIrdNxrGjjEobQr`m@ieG~|YseFhhb@yfVd_\\rlA|cU`aJjjR~uM`fQyl@p{^qlHjpH~lD",
+      "package": {
+        "id": 5887,
+        "size_kind": "super-long",
+        "images": [
+          {
+            "id": 8731,
+            "type": "publish",
+            "location": "https://roadie-app-qa.s3.amazonaws.com/package_image/image/8731/5f03111f-ebb6-44c5-86d5-911973972b09.jpg",
+            "index": 0
+          },
+          {
+            "id": 8732,
+            "type": "publish",
+            "location": "https://roadie-app-qa.s3.amazonaws.com/package_image/image/8732/6f0235fe-9b44-4497-a943-11ddd27c0539.jpg",
+            "index": 0
+          }
+        ]
+      },
+      "manager": {
+        "id": 1414,
+        "preferred_name": "S-six-six S.",
+        "avatar_url": "https://roadie-app-qa.s3.amazonaws.com/profile/avatar/1414/c3ed4b03-8ef8-44bb-8ece-52fcfd8c0250.jpg",
+        "social_id": "1419075925084345",
+        "social_type": "facebook"
+      },
+      "pricing": {
+        "amount_paid_to_roadie": 305.0,
+        "delivery_fee": 77.0,
+        "safety_fee": 1.0,
+        "insurance_fee": 0.0,
+        "total_price": 383.0
+      }
+    },
+    {
+      "id": 6777,
+      "title": "Curl 6-8 d",
+      "delivery_deadline": "2020-09-01T18:20:00Z",
+      "price": 400.0,
+      "delivery_fee": 100.0,
+      "status": "published",
+      "total_distance": 2619.066958951,
+      "created_at": "2016-06-08T19:47:31Z",
+      "updated_at": "2016-06-15T22:03:26Z",
+      "category": "shipment",
+      "pickup_location": {
+        "latitude": 47.614848,
+        "longitude": -122.3359058,
+        "friendly_name": "Stewart Street",
+        "city": "Seattle",
+        "state": "WA",
+        "zip": "98101"
+      },
+      "bearing": 110,
+      "delivery_location": {
+        "latitude": 33.9483905,
+        "longitude": -84.542372,
+        "friendly_name": "127-175 Coryell Street",
+        "city": "Marietta",
+        "state": "GA",
+        "zip": "30060"
+      },
+      "route": "}vraHxttiVb|S{{rArgOki{@hiDkx[ipDchFrvD}_BtmJwfHpbI{cLfkQq{l@jn@}yZv`IsqQta^iys@vgDi~oB}jKmk@chQqy\\zvBmpcDqgCcjgA{^yya@apMg}ZumPy`h@cgN}h^ghb@aqo@wjVedq@elAeoh@wkD}yVwrBmg]lqHk}_@~gIyti@jmJihf@~_Couq@peLovn@juJw_`ApdOa{k@thD{lRlbJieVx`H_tZlxa@}|`@ws@wdd@zAkd[z_Eotd@hnR}ec@dnCccWdaZi`g@nuA_ckAfqVygcA~qSiig@~h`@f|BdzZz}FxhS_V`mHq_JfzFqaj@reK{fOrmFkrdBkjFims@xoMew}@vp[gqq@x}I{dXoxCuaVrtAo|r@gvJkuYnrBy~YsvTifo@u_DqmVd`Rsna@vpDqxi@bbFme^ndKola@mmIuikAilXaly@ucD{sY|lE_aVbxFecqAvSm`j@d_McxOtiOuhFnpEg_Ur|Csh[}CkwU_kGunc@}fHo|g@ui@}al@`mM_|oB~_TyqxAxxTwwk@n~m@wb~Bxxl@o|nAp}`@eqt@nyJw~DdxRs{XbiWg|b@nr\\{nTlkUoqV`lC_{[wn@spf@lkAe{mAbxE{uRlbOyyh@t|Wuct@piCmflAa}CcmdAaoEe`v@bRkql@_b@{haCndKi~fB`qDabShsIkip@laJcfjDr_EkaxAtHgpaCzpIk|Tw@uel@`kU~aCzioB~Rv~XqWdxIauLtdSolUvhYciZ|\\maLppJkkDx|U_dL~cc@{uRp{YynQxcYsi@flWesIjnm@_s[bh^a|A`iMtaCjyEyzLtmXuZlfo@y}Czr\\}vBd}V_`[f`i@srWfc\\a|Zppc@oqu@jz_@qqw@hz~AcbF~q`@wa^~aQqcK~sHouQliDypt@rpDybeBdsHmfaCd]c_z@urEixq@lxBe}kAvaJq~mAfcLi|oBj~DmnzAt}Nabw@|}Niv[tqJgsj@~qOou~@ddRktu@leImhdAlq^ufJfg{AtjJtkHz_AjrIlpCfxNk}NtiTo{GpoHwkLjkWi_P`l[mhDzrI{`IjbHmkc@aaCo|YeuIq|l@jvqAgdnCljn@k||@haRujh@dl]ifLdgy@{`{@j}m@cxe@|iTan\\|c_@}v\\l}Ss|ThcRs~JviLqiFbaBmiLnrFuiXvhBsgIpbCegIeyGcdFbmA_v`@xgQcvPd|FwzOblUquExkYsaF``e@i~G~_`@qdX~fMioDzcPoiFhaL{j\\tlNglE",
+      "package": {
+        "id": 6723,
+        "size_kind": "super-long",
+        "images": []
+      },
+      "manager": {
+        "id": 1181,
+        "preferred_name": "S F.",
+        "avatar_url": "https://s3.amazonaws.com/roadie-app-test/default/avatars/avatar1.png",
+        "social_id": null,
+        "social_type": null
+      },
+      "pricing": {
+        "amount_paid_to_roadie": 400.0,
+        "delivery_fee": 100.0,
+        "safety_fee": 1.0,
+        "insurance_fee": 5.0,
+        "total_price": 506.0
+      }
+    },
+    {
+      "id": 6778,
+      "title": "Curl 6-8 e",
+      "delivery_deadline": "2020-09-01T18:20:00Z",
+      "price": 80.0,
+      "delivery_fee": 20.0,
+      "status": "published",
+      "total_distance": 2619.066958951,
+      "created_at": "2016-06-08T19:50:30Z",
+      "updated_at": "2016-06-15T22:03:27Z",
+      "category": "shipment",
+      "pickup_location": {
+        "latitude": 47.614848,
+        "longitude": -122.3359058,
+        "friendly_name": "Stewart Street",
+        "city": "Seattle",
+        "state": "WA",
+        "zip": "98101"
+      },
+      "bearing": 110,
+      "delivery_location": {
+        "latitude": 33.9483905,
+        "longitude": -84.542372,
+        "friendly_name": "127-175 Coryell Street",
+        "city": "Marietta",
+        "state": "GA",
+        "zip": "30060"
+      },
+      "route": "}vraHxttiVb|S{{rArgOki{@hiDkx[ipDchFrvD}_BtmJwfHpbI{cLfkQq{l@jn@}yZv`IsqQta^iys@vgDi~oB}jKmk@chQqy\\zvBmpcDqgCcjgA{^yya@apMg}ZumPy`h@cgN}h^ghb@aqo@wjVedq@elAeoh@wkD}yVwrBmg]lqHk}_@~gIyti@jmJihf@~_Couq@peLovn@juJw_`ApdOa{k@thD{lRlbJieVx`H_tZlxa@}|`@ws@wdd@zAkd[z_Eotd@hnR}ec@dnCccWdaZi`g@nuA_ckAfqVygcA~qSiig@~h`@f|BdzZz}FxhS_V`mHq_JfzFqaj@reK{fOrmFkrdBkjFims@xoMew}@vp[gqq@x}I{dXoxCuaVrtAo|r@gvJkuYnrBy~YsvTifo@u_DqmVd`Rsna@vpDqxi@bbFme^ndKola@mmIuikAilXaly@ucD{sY|lE_aVbxFecqAvSm`j@d_McxOtiOuhFnpEg_Ur|Csh[}CkwU_kGunc@}fHo|g@ui@}al@`mM_|oB~_TyqxAxxTwwk@n~m@wb~Bxxl@o|nAp}`@eqt@nyJw~DdxRs{XbiWg|b@nr\\{nTlkUoqV`lC_{[wn@spf@lkAe{mAbxE{uRlbOyyh@t|Wuct@piCmflAa}CcmdAaoEe`v@bRkql@_b@{haCndKi~fB`qDabShsIkip@laJcfjDr_EkaxAtHgpaCzpIk|Tw@uel@`kU~aCzioB~Rv~XqWdxIauLtdSolUvhYciZ|\\maLppJkkDx|U_dL~cc@{uRp{YynQxcYsi@flWesIjnm@_s[bh^a|A`iMtaCjyEyzLtmXuZlfo@y}Czr\\}vBd}V_`[f`i@srWfc\\a|Zppc@oqu@jz_@qqw@hz~AcbF~q`@wa^~aQqcK~sHouQliDypt@rpDybeBdsHmfaCd]c_z@urEixq@lxBe}kAvaJq~mAfcLi|oBj~DmnzAt}Nabw@|}Niv[tqJgsj@~qOou~@ddRktu@leImhdAlq^ufJfg{AtjJtkHz_AjrIlpCfxNk}NtiTo{GpoHwkLjkWi_P`l[mhDzrI{`IjbHmkc@aaCo|YeuIq|l@jvqAgdnCljn@k||@haRujh@dl]ifLdgy@{`{@j}m@cxe@|iTan\\|c_@}v\\l}Ss|ThcRs~JviLqiFbaBmiLnrFuiXvhBsgIpbCegIeyGcdFbmA_v`@xgQcvPd|FwzOblUquExkYsaF``e@i~G~_`@qdX~fMioDzcPoiFhaL{j\\tlNglE",
+      "package": {
+        "id": 6724,
+        "size_kind": "medium",
+        "images": []
+      },
+      "manager": {
+        "id": 1181,
+        "preferred_name": "S F.",
+        "avatar_url": "https://s3.amazonaws.com/roadie-app-test/default/avatars/avatar1.png",
+        "social_id": null,
+        "social_type": null
+      },
+      "pricing": {
+        "amount_paid_to_roadie": 80.0,
+        "delivery_fee": 20.0,
+        "safety_fee": 1.0,
+        "insurance_fee": 5.0,
+        "total_price": 106.0,
+        "line_items": [
+          {
+            "category": "incidentals",
+            "amount": 10.0,
+            "description": "For parking."
+          }
+        ]
+      }
+    }
+  ]
+}
